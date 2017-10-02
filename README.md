@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/RedditFormula1/styling.svg?branch=master)](https://travis-ci.org/RedditFormula1/styling)
+[![Build Status](https://travis-ci.org/RedditFormula1/styling.svg?branch=master)](https://travis-ci.org/RedditFormula1/styling) (Master)
+
+[![Build Status](https://travis-ci.org/RedditFormula1/styling.svg?branch=develop)](https://travis-ci.org/RedditFormula1/styling) (Develop)
 
 # styling
 The styling for /r/Formula1
