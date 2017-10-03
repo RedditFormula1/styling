@@ -1,0 +1,36 @@
+html:not([lang=ns]) {
+    a[href="https://www.reddit.com/user/SauberF1Team"],
+    a[href="https://www.reddit.com/user/ForceIndiaF1"],
+    a[href="https://www.reddit.com/user/willbuxton"],
+    a[href="https://www.reddit.com/user/CircuitofTheAmericas"],
+    a[href="https://www.reddit.com/user/HaasF1TeamAJ"],
+    a[href="https://www.reddit.com/user/Ikitou_"] {
+        &:after {
+            display        : inline-block;
+            font-weight    : 400;
+            background     : #ccc;
+            padding        : 3px;
+            border-radius  : 3px;
+            margin-left    : 5px;
+            font-size      : 9px;
+            text-transform : uppercase;
+            color          : #737373;
+        }
+    }
+
+    a[href="https://www.reddit.com/user/SauberF1Team"],
+    a[href="https://www.reddit.com/user/ForceIndiaF1"],
+    a[href="https://www.reddit.com/user/willbuxton"],
+    a[href="https://www.reddit.com/user/CircuitofTheAmericas"],
+    a[href="https://www.reddit.com/user/HaasF1TeamAJ"] {
+        &:after {
+            content : 'Verified Account';
+        }
+    }
+
+    a[href="https://www.reddit.com/user/Ikitou_"] {
+        &:after {
+            content: 'Codemasters F1 Dev';
+        }
+    }
+}
