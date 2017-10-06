@@ -1,0 +1,29 @@
+#header {
+    background     : #fff;
+    height         : 140px;
+    padding-bottom : 35px;
+    border-bottom  : 1px solid #ccc;
+    box-shadow     : 0 0 1px #bebebe;
+}
+
+#header,
+#header #header-bottom-right,
+#header #header-sr-area {
+    border        : 0;
+    background    : 0 0;
+    border-radius : 0;
+}
+
+#header #header-sr-area {
+    background    : #2d2d2d;
+    color         : #fff;
+    border-bottom : 1px solid #222;
+    height        : 20px;
+    line-height   : 20px;
+}
+
+#header #header-bottom-left {
+    height        : 110px;
+    background    : url(%%banner-new%%) right 0 no-repeat #08090b;
+    border-bottom : 2px solid #c90000;
+}
