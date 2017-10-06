@@ -8,7 +8,8 @@ const autoprefixer = require('gulp-autoprefixer')
 const del = require('del')
 
 let project = {
-	styles: 'src/**/*.scss',
+	styles: 'src/styles/**/*.scss',
+	images: 'src/images/**/*',
 	dist: 'dist/'
 }
 
@@ -30,8 +31,14 @@ gulp.task('styles', function() {
 		.pipe(gulp.dest(project.dist))
 })
 
+gulp.task('images', function() {
+	gulp.src(project.images, {base: 'src'})
+		.pipe(plumber())
+		.pipe(gulp.dest(project.dist))
+})
+
 gulp.task('build', function() {
-	gulp.start('styles')
+	gulp.start(['styles', 'images'])
 })
 
 gulp.task('dev', function() {
