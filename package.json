@@ -1,6 +1,6 @@
 {
   "name": "Reddit-F1-Styling",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Styling for /r/Formula1",
   "main": "gulpfile.js",
   "repository": "https://github.com/RedditFormula1/styling.git",
