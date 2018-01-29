@@ -25,6 +25,10 @@
     border-color: #BA8600;
 }
 
+.flair-hof:before, a[href="#hof"] {
+    background: url(%%hof-flair%%) no-repeat;
+}
+
 .flair-AAADefault:before, a[href="#AAADefault"] {
     background-position: 0 -1px;
 }
