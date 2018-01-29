@@ -1172,12 +1172,12 @@ form.toggle.flairtoggle {
   display : none !important;
 }
 
-.linkflair-qualifying .md table:nth-of-type(2) tr td:nth-of-type(1),
-.linkflair-qualifying .md table:nth-of-type(2) tr th:nth-of-type(1),
-.linkflair-race .md table:nth-of-type(2) tr td:nth-of-type(1),
-.linkflair-race .md table:nth-of-type(2) tr th:nth-of-type(1) {
+.linkflair-qualifying .md table:nth-of-type(2) tr td,
+.linkflair-qualifying .md table:nth-of-type(2) tr th,
+.linkflair-race .md table:nth-of-type(2) tr td,
+.linkflair-race .md table:nth-of-type(2) tr th {
   text-align : center;
-  width      : 32px;
+  width      : 50%;
 }
 
 .linkflair-qualifying .md table:nth-of-type(2) tr td:nth-of-type(2),
