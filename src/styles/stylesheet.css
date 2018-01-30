@@ -4647,12 +4647,12 @@ a[href='/topEnd'] {
   display : none !important;
 }
 
-a[href="https: //www.reddit.com/user/SauberF1Team"]:after,
-a[href="https: //www.reddit.com/user/ForceIndiaF1"]:after,
-a[href="https: //www.reddit.com/user/willbuxton"]:after,
-a[href="https: //www.reddit.com/user/CircuitofTheAmericas"]:after,
-a[href="https: //www.reddit.com/user/F1_Research"]:after,
-a[href="https: //www.reddit.com/user/HaasF1TeamAJ"]:after {
+a[href="https://www.reddit.com/user/SauberF1Team"]:after,
+a[href="https://www.reddit.com/user/ForceIndiaF1"]:after,
+a[href="https://www.reddit.com/user/willbuxton"]:after,
+a[href="https://www.reddit.com/user/CircuitofTheAmericas"]:after,
+a[href="https://www.reddit.com/user/F1_Research"]:after,
+a[href="https://www.reddit.com/user/HaasF1TeamAJ"]:after {
   background     : #ccc;
   border-radius  : 3px;
   color          : #737373;
@@ -4665,7 +4665,7 @@ a[href="https: //www.reddit.com/user/HaasF1TeamAJ"]:after {
   text-transform : uppercase;
 }
 
-a[href="https: //www.reddit.com/user/Ikitou_"]:after {
+a[href="https://www.reddit.com/user/Ikitou_"]:after {
   background     : #ccc;
   border-radius  : 3px;
   color          : #737373;
@@ -4761,12 +4761,12 @@ a[href="#hof"] {
   background : url(%%hof-flair%%) 0 -2px no-repeat;
 }
 
-a[href="https: //www.reddit.com/user/BottasWMR"] {
+a[href="https://www.reddit.com/user/BottasWMR"] {
   color       : #ff7d4d;
   font-weight : 700;
 }
 
-a[href="https: //www.reddit.com/user/BottasWMR"]:after {
+a[href="https://www.reddit.com/user/BottasWMR"]:after {
   background     : #ccc;
   border-radius  : 3px;
   color          : #737373;
