@@ -4678,6 +4678,19 @@ a[href="https://www.reddit.com/user/Ikitou_"]:after {
   text-transform : uppercase;
 }
 
+a[href="https://www.reddit.com/user/anitalianguy"]:after {
+  background     : #ccc;
+  border-radius  : 3px;
+  color          : #737373;
+  content        : "Verified Tickets Guy";
+  display        : inline-block;
+  font-size      : 9px;
+  font-weight    : 400;
+  margin-left    : 5px;
+  padding        : 3px;
+  text-transform : uppercase;
+}
+
 .post-linkflair-hub .linkflair .md table:nth-of-type(1) {
   margin-bottom : 40px;
 }
