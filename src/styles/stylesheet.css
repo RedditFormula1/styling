@@ -4726,23 +4726,23 @@ a[href="https://www.reddit.com/user/anitalianguy"]:after {
 
 @keyframes slide {
   0%, 20% {
-    top : 0;
+    transform : translateY(0);
   }
 
   25%, 45% {
-    top : -100%;
+    transform : translateY(-100%);
   }
 
   50%, 70% {
-    top : -200%;
+    transform : translateY(-200%);
   }
 
   75%, 95% {
-    top : -300%;
+    transform : translateY(-300%);
   }
 
   100% {
-    top : -400%;
+    transform : translateY(-400%);
   }
 }
 
