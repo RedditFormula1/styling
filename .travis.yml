@@ -4,4 +4,4 @@ node_js:
 script: "gulp build"
 matrix:
 	allow_failures:
-		- node: stable
+		- node_js: stable
