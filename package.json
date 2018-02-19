@@ -1,0 +1,13 @@
+{
+  "name": "RedditF1Styling",
+  "version": "1.0.0",
+  "description": "Stying for /r/Formula1",
+  "main": "gulpfile.js",
+  "repository": "https://github.com/RedditFormula1/styling.git",
+  "author": "/r/Formula1 Mod Team",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

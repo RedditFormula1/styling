@@ -3,7 +3,3 @@ node_js:
   - "stable"
 before_script:
 script: "gulp build"
-matrix:
-  allow_failures:
-    script:
-      - "gulp build"
