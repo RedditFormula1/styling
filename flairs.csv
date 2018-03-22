@@ -1,0 +1,124 @@
+text,class
+2018 Teams,label
+Mercedes,mercedes
+Ferrari,ferrari
+Red Bull,red-bull
+Williams,williams
+Haas,haas
+Toro Rosso,toro-rosso
+McLaren,mclaren
+Force India,force-india
+Renault,renault
+Sauber,sauber
+2018 Drivers,label
+Lewis Hamilton,lewis-hamilton
+Valtteri Bottas,valtteri-bottas
+Sebastian Vettel,sebastian-vettel
+Kimi Raikkönen,kimi-raikkonen
+Daniel Ricciardo,daniel-ricciardo
+Max Verstappen,max-verstappen
+Lance Stroll,lance-stroll
+Sergey Sirotkin,sergey-sirotkin
+Kevin Magnussen,kevin-magnussen
+Romain Grosjean,romain-grosjean
+Brendon Hartley,brendon-hartley
+Pierre Gasly,pierre-gasly
+Fernando Alonso,fernando-alonso
+Stoffel Vandoorne,stoffel-vandoorne
+Sergio Perez,sergio-perez
+Esteban Ocon,esteban-ocon
+Nico Hulkenberg,nico-hulkenberg
+Carlos Sainz Jr,carlos-sainz-jr
+Markus Ericsson,markus-ericsson
+Charles Leclerc,charles-leclerc
+2018 Test / Junior Drivers,label
+Pascal Wehrlein,pascal-wehrlein
+Daniil Kvyat,daniil-kvyat
+Sebatian Buemi,sebastian-buemi
+Robert Kubica,robert-kubica
+Lando Norris,lando-norris
+Nicholas Latifi,nicholas-latifi
+Jack Aitken,jack-aitken
+Antonio Giovinazzi,antonio-giovinazzi
+WDCs,label
+Alain Prost,alain-prost
+Alan Jones,alan-jones
+Alberto Ascari,alberto-ascari
+Ayrton Senna,ayrton-senna
+Damon Hill,damon-hill
+Denny Hulme,denny-hulme
+Emerson Fittipaldi,emerson-fittipaldi
+Giuseppe Farina,giuseppe-farina
+Graham Hill,graham-hill
+Jack Brabham,jack-brabham
+Jackie Stewart,jackie-stewart
+Jacques Villeneuve,jacques-villeneuve
+James Hunt,james-hunt
+Jenson Button,jenson-button
+Jim Clark,jim-clark
+Jochen Rindt,jochen-rindt
+Jody Scheckter,jody-scheckter
+John Surtees,john-surtees
+Juan Manuel Fangio,juan-manuel-fangio
+Keke Rosberg,keke-rosberg
+Mario Andretti,mario-andretti
+Michael Schumacher,michael-schumacher
+Mika Häkkinen,mika-hakkinen
+Mike Hawthorn,make-hawthorn
+Nelson Piquet,nelson-piquet
+Nico Rosberg,nico-rosberg
+Nigell Mansell,nigell-mansell
+Niki Lauda,niki-lauda
+Phil Hill,phil-hill
+WCCs,label
+Alfa Romeo,alfa-romeo
+Benetton,benetton
+Brabham,brabham
+Brawn GP,brawn-gp
+BRM,brm
+Cooper,cooper
+Lotus,lotus
+Maserati,maserati
+Matra,matra
+Tyrrell,tyrrell
+Other drivers,label
+Tatiana Calderon,tatiana-calderon
+Carmen Jorda,carmen-jorda
+Susie Wolff,susie-wolff
+Lella Lombardi,lella-lombardi
+Jules Bianchi,jules-bianchi
+Roland Ratzenberger,roland-ratzenberger
+Gilles Villeneuve,gilles-villeneuve
+Ronnie Peterson,ronnie-peterson
+Jean-Pierre Jabouille,jean-pierre-jabouille
+David Coulthard,david-coulthard
+Martin Brundle,martin-brundle
+Tom Pryce,tom-pryce
+Jean Alesi,jean-alesi
+Heikki Kovaleinen,heikki-kovaleinen
+Mark Webber,mark-webber
+Felipe Massa,felipe-massa
+Kamui Kobayashi,kamui-kobayashi
+Pastor Maldonado,pastor-maldonado
+Other teams,label
+Eurobrun,eurobrun
+Jordan,jordan
+De Tomaso,de-tomaso
+Minardi,minardi
+Spyker,spyker
+Manor,manor
+Caterham,caterham
+BMW Sauber,bmw-sauber
+Jaguar,jaguar
+BAR Honda,bar-honda
+Misc.,label
+F1,f1-logo
+F1,f1-classic-logo
+Pirelli Wet,pirelli-wet
+Pirelli Intermediate,pirelli-intermediate
+Pirelli Hypersoft,pirelli-hypersoft
+Pirelli Ultrasoft,pirelli-ultrasoft
+Pirelli Supersoft,pirelli-supersoft
+Pirelli Soft,pirelli-soft
+Pirelli Medium,pirelli-medium
+Pirelli Hard,pirelli-hard
