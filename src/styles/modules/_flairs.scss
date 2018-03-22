@@ -1,0 +1,105 @@
+.flair:before {
+  background-image    : url(%%flairs%%);
+  background-repeat   : no-repeat;
+  content             : "";
+  display             : inline-block;
+  height              : 16px;
+  margin-right        : 4px;
+  vertical-align      : middle;
+  width               : 22px;
+  @extend .flair-aaa-default:before;
+}
+
+.flair-aaa-default:before {
+  background-position: 0px -50px;
+}
+.flair-alain-prost:before {
+  background-position: -66px -48px;
+}
+.flair-alan-jones:before {
+  background-position: 0px -18px;
+}
+.flair-alberto-ascari:before {
+  background-position: -22px -18px;
+}
+.flair-ayrton-senna:before {
+  background-position: -44px 0px;
+}
+.flair-chase-carey:before {
+  background-position: -44px -16px;
+}
+.flair-f1-classic-logo:before {
+  background-position: -87px -82px;
+}
+.flair-f1-logo:before {
+  background-position: -22px -34px;
+}
+.flair-ferrari:before {
+  background-position: -44px -34px;
+}
+.flair-force-india:before {
+  background-position: 0px 0px;
+}
+.flair-haas:before {
+  background-position: -22px -50px;
+}
+.flair-jean-pierre-jabouille:before {
+  background-position: -44px -50px;
+}
+.flair-juan-manuel-fangio:before {
+  background-position: -66px 0px;
+}
+.flair-mclaren:before {
+  background-position: -66px -16px;
+}
+.flair-mercedes:before {
+  background-position: -66px -32px;
+}
+.flair-pirelli-hard:before {
+  background-position: -22px 0px;
+}
+.flair-pirelli-hypersoft:before {
+  background-position: 0px -66px;
+}
+.flair-pirelli-intermediate:before {
+  background-position: -22px -66px;
+}
+.flair-pirelli-medium:before {
+  background-position: -44px -66px;
+}
+.flair-pirelli-soft:before {
+  background-position: -66px -66px;
+}
+.flair-pirelli-superhard:before {
+  background-position: -88px 0px;
+}
+.flair-pirelli-supersoft:before {
+  background-position: -88px -16px;
+}
+.flair-pirelli-ultrasoft:before {
+  background-position: -88px -32px;
+}
+.flair-pirelli-wet:before {
+  background-position: -88px -48px;
+}
+.flair-red-bull:before {
+  background-position: -88px -64px;
+}
+.flair-renault:before {
+  background-position: 0px -82px;
+}
+.flair-ross-brawn:before {
+  background-position: -110px 0px;
+}
+.flair-safety-car:before {
+  background-position: -44px -82px;
+}
+.flair-sauber:before {
+  background-position: -22px -82px;
+}
+.flair-toro-rosso:before {
+  background-position: 0px -34px;
+}
+.flair-williams:before {
+  background-position: -66px -82px;
+}

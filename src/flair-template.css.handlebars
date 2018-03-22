@@ -1,0 +1,17 @@
+.flair:before {
+  background-image    : url(%%flairs%%);
+  background-repeat   : no-repeat;
+  content             : "";
+  display             : inline-block;
+  height              : 16px;
+  margin-right        : 4px;
+  vertical-align      : middle;
+  width               : 22px;
+  @extend .flair-aaa-default:before;
+}
+
+{{#sprites}}
+.flair-{{name}}:before {
+  background-position: {{px.offset_x}} {{px.offset_y}};
+}
+{{/sprites}}
