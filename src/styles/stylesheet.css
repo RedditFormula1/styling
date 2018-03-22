@@ -4652,6 +4652,7 @@ a[href="https://www.reddit.com/user/ForceIndiaF1"]:after,
 a[href="https://www.reddit.com/user/willbuxton"]:after,
 a[href="https://www.reddit.com/user/CircuitofTheAmericas"]:after,
 a[href="https://www.reddit.com/user/F1_Research"]:after,
+a[href="https://www.reddit.com/user/ChrisMedland"]:after,
 a[href="https://www.reddit.com/user/HaasF1TeamAJ"]:after {
   background     : #ccc;
   border-radius  : 3px;
@@ -4790,4 +4791,12 @@ a[href="https://www.reddit.com/user/BottasWMR"]:after {
   margin-left    : 5px;
   padding        : 3px;
   text-transform : uppercase;
+}
+
+.linkflair-formula1 .thumbnail {
+  background          : url(%%F1%%);
+  background-repeat   : no-repeat;
+  background-position : center;
+  background-size     : 100%;
+  height              : 50px;
 }
