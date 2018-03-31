@@ -5,7 +5,7 @@ from os import path
 
 reddit = praw.Reddit('settings')
 
-sub = reddit.subreddit('formula1flairs')
+sub = reddit.subreddit('formula1')
 
 def templates_from_csv(path):
   f = csv.reader(file(path))

@@ -113,7 +113,7 @@ form.toggle.flairtoggle {
   background-color : $black;
 }
 
-a.author:after {
+body > .content a.author:after {
   content     : ' - Post times provided by Rolex';
   font-weight : 800;
   color       : $red;
@@ -203,7 +203,7 @@ a.author:after {
 
 .link .usertext .md,
 .listing-page .expando .md {
-  background-color: $black;
+  background-color: $black !important;
 }
 
 .md {
@@ -307,4 +307,44 @@ div.content {
 
 .commentarea textarea:focus {
   background-position : 0 -100px;
+}
+
+.md a[href="/countDownEnd"]:after {
+  content     : 'COUNTDOWN SPONSORED BY ROLEX';
+  display     : block;
+  color       : $red;
+  font-size   : 24px;
+  line-height : 24px;
+  font-weight : 800;
+  margin-top  : 5px;
+}
+
+.submit-link .morelink a:after {
+  content: ' via DHL';
+}
+
+.linkflair .md table tr {
+  background: none !important;
+}
+
+.pagename {
+  background-image: url(%%sprite2%%);
+  height: 32px;
+
+  a {
+    height: 32px;
+  }
+}
+
+.new-comment .usertext-body {
+  background   : none;
+  border-color : darken($red, 25%);
+}
+
+.listing-page .thing:hover .expando .md {
+  background: none;
+}
+
+.usertext.border .usertext-body {
+  background : darken($red, 25%);
 }
