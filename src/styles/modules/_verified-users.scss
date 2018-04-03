@@ -1,0 +1,51 @@
+a[href="https://www.reddit.com/user/anitalianguy"]:after,
+a[href="https://www.reddit.com/user/BottasWMR"]:after,
+a[href="https://www.reddit.com/user/ChrisMedland"]:after,
+a[href="https://www.reddit.com/user/CircuitofTheAmericas"]:after,
+a[href="https://www.reddit.com/user/F1_Research"]:after,
+a[href="https://www.reddit.com/user/ForceIndiaF1"]:after,
+a[href="https://www.reddit.com/user/Gianlu27"]:after,
+a[href="https://www.reddit.com/user/HaasF1TeamAJ"]:after,
+a[href="https://www.reddit.com/user/Ikitou_"]:after,
+a[href="https://www.reddit.com/user/landonorris"]:after,
+a[href="https://www.reddit.com/user/SauberF1Team"]:after,
+a[href="https://www.reddit.com/user/willbuxton"]:after {
+  background     : #ccc;
+  border-radius  : 3px;
+  color          : #737373;
+  display        : inline-block;
+  font-size      : 9px;
+  font-weight    : 400;
+  margin-left    : 5px;
+  padding        : 3px;
+  text-transform : uppercase;
+}
+
+a[href="https://www.reddit.com/user/ChrisMedland"]:after,
+a[href="https://www.reddit.com/user/CircuitofTheAmericas"]:after,
+a[href="https://www.reddit.com/user/F1_Research"]:after,
+a[href="https://www.reddit.com/user/ForceIndiaF1"]:after,
+a[href="https://www.reddit.com/user/Gianlu27"]:after,
+a[href="https://www.reddit.com/user/HaasF1TeamAJ"]:after,
+a[href="https://www.reddit.com/user/landonorris"]:after,
+a[href="https://www.reddit.com/user/SauberF1Team"]:after,
+a[href="https://www.reddit.com/user/willbuxton"]:after {
+  content : "Verified Account";
+}
+
+a[href="https://www.reddit.com/user/Ikitou_"]:after {
+  content : "Codemasters F1 Dev";
+}
+
+a[href="https://www.reddit.com/user/anitalianguy"]:after {
+  content : "Verified Tickets Guy";
+}
+
+a[href="https://www.reddit.com/user/BottasWMR"]:after {
+  content : "Hall of Fame";
+}
+
+a[href="https://www.reddit.com/user/BottasWMR"] {
+  color       : #ff7d4d;
+  font-weight : 700;
+}

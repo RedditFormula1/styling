@@ -3309,52 +3309,6 @@ a[href='/topEnd'] {
   display : none !important;
 }
 
-a[href="https://www.reddit.com/user/SauberF1Team"]:after,
-a[href="https://www.reddit.com/user/ForceIndiaF1"]:after,
-a[href="https://www.reddit.com/user/willbuxton"]:after,
-a[href="https://www.reddit.com/user/CircuitofTheAmericas"]:after,
-a[href="https://www.reddit.com/user/F1_Research"]:after,
-a[href="https://www.reddit.com/user/Gianlu27"]:after,
-a[href="https://www.reddit.com/user/ChrisMedland"]:after,
-a[href="https://www.reddit.com/user/HaasF1TeamAJ"]:after {
-  background     : #ccc;
-  border-radius  : 3px;
-  color          : #737373;
-  content        : "Verified Account";
-  display        : inline-block;
-  font-size      : 9px;
-  font-weight    : 400;
-  margin-left    : 5px;
-  padding        : 3px;
-  text-transform : uppercase;
-}
-
-a[href="https://www.reddit.com/user/Ikitou_"]:after {
-  background     : #ccc;
-  border-radius  : 3px;
-  color          : #737373;
-  content        : "Codemasters F1 Dev";
-  display        : inline-block;
-  font-size      : 9px;
-  font-weight    : 400;
-  margin-left    : 5px;
-  padding        : 3px;
-  text-transform : uppercase;
-}
-
-a[href="https://www.reddit.com/user/anitalianguy"]:after {
-  background     : #ccc;
-  border-radius  : 3px;
-  color          : #737373;
-  content        : "Verified Tickets Guy";
-  display        : inline-block;
-  font-size      : 9px;
-  font-weight    : 400;
-  margin-left    : 5px;
-  padding        : 3px;
-  text-transform : uppercase;
-}
-
 .post-linkflair-hub .linkflair .md table:nth-of-type(1) {
   margin-bottom : 40px;
 }
@@ -3436,24 +3390,6 @@ a[href="https://www.reddit.com/user/anitalianguy"]:after {
 .flair-hof:before,
 a[href="#hof"] {
   background : url(%%hof-flair%%) 0 -2px no-repeat;
-}
-
-a[href="https://www.reddit.com/user/BottasWMR"] {
-  color       : #ff7d4d;
-  font-weight : 700;
-}
-
-a[href="https://www.reddit.com/user/BottasWMR"]:after {
-  background     : #ccc;
-  border-radius  : 3px;
-  color          : #737373;
-  content        : "Hall of Fame";
-  display        : inline-block;
-  font-size      : 9px;
-  font-weight    : 400;
-  margin-left    : 5px;
-  padding        : 3px;
-  text-transform : uppercase;
 }
 
 .linkflair-formula1 .thumbnail {
