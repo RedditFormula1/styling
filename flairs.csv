@@ -1,46 +1,46 @@
 text,class
 2018 Teams,label
-Mercedes,mercedes
 Ferrari,ferrari
-Red Bull,red-bull
-Williams,williams
-Haas,haas
-Toro Rosso,toro-rosso
-McLaren,mclaren
 Force India,force-india
+Haas,haas
+McLaren,mclaren
+Mercedes,mercedes
+Red Bull,red-bull
 Renault,renault
 Sauber,sauber
+Toro Rosso,toro-rosso
+Williams,williams
 2018 Drivers,label
-Lewis Hamilton,lewis-hamilton
-Valtteri Bottas,valtteri-bottas
-Sebastian Vettel,sebastian-vettel
-Kimi Raikkönen,kimi-raikkonen
-Daniel Ricciardo,daniel-ricciardo
-Max Verstappen,max-verstappen
-Lance Stroll,lance-stroll
-Sergey Sirotkin,sergey-sirotkin
-Kevin Magnussen,kevin-magnussen
-Romain Grosjean,romain-grosjean
 Brendon Hartley,brendon-hartley
-Pierre Gasly,pierre-gasly
-Fernando Alonso,fernando-alonso
-Stoffel Vandoorne,stoffel-vandoorne
-Sergio Perez,sergio-perez
-Esteban Ocon,esteban-ocon
-Nico Hulkenberg,nico-hulkenberg
 Carlos Sainz Jr,carlos-sainz-jr
-Marcus Ericsson,marcus-ericsson
 Charles Leclerc,charles-leclerc
+Daniel Ricciardo,daniel-ricciardo
+Esteban Ocon,esteban-ocon
+Fernando Alonso,fernando-alonso
+Kevin Magnussen,kevin-magnussen
+Kimi Raikkönen,kimi-raikkonen
+Lance Stroll,lance-stroll
+Lewis Hamilton,lewis-hamilton
+Marcus Ericsson,marcus-ericsson
+Max Verstappen,max-verstappen
+Nico Hulkenberg,nico-hulkenberg
+Pierre Gasly,pierre-gasly
+Romain Grosjean,romain-grosjean
+Sebastian Vettel,sebastian-vettel
+Sergey Sirotkin,sergey-sirotkin
+Sergio Perez,sergio-perez
+Stoffel Vandoorne,stoffel-vandoorne
+Valtteri Bottas,valtteri-bottas
 2018 Test / Junior Drivers,label
-Pascal Wehrlein,pascal-wehrlein
+Antonio Giovinazzi,antonio-giovinazzi
 Daniil Kvyat,daniil-kvyat
-Sebatian Buemi,sebastian-buemi
-Robert Kubica,robert-kubica
-Santino Ferrucci,santino-ferrucci
+Jack Aitken,jack-aitken
 Lando Norris,lando-norris
 Nicholas Latifi,nicholas-latifi
-Jack Aitken,jack-aitken
-Antonio Giovinazzi,antonio-giovinazzi
+Pascal Wehrlein,pascal-wehrlein
+Robert Kubica,robert-kubica
+Santino Ferrucci,santino-ferrucci
+Sebastian Buemi,sebastian-buemi
 WDCs,label
 Alain Prost,alain-prost
 Alan Jones,alan-jones
@@ -68,7 +68,7 @@ Mika Häkkinen,mika-hakkinen
 Mike Hawthorn,mike-hawthorn
 Nelson Piquet,nelson-piquet
 Nico Rosberg,nico-rosberg
-Nigell Mansell,nigell-mansell
+Nigel Mansell,nigel-mansell
 Niki Lauda,niki-lauda
 Phil Hill,phil-hill
 WCCs,label
@@ -79,48 +79,49 @@ Brawn GP,brawn-gp
 BRM,brm
 Cooper,cooper
 Lotus,lotus
-Maserati,maserati
 Matra,matra
 Tyrrell,tyrrell
 Other drivers,label
-Tatiana Calderon,tatiana-calderon
 Carmen Jorda,carmen-jorda
-Susie Wolff,susie-wolff
-Lella Lombardi,lella-lombardi
-Jules Bianchi,jules-bianchi
-Roland Ratzenberger,roland-ratzenberger
-Gilles Villeneuve,gilles-villeneuve
-Ronnie Peterson,ronnie-peterson
-Jean-Pierre Jabouille,jean-pierre-jabouille
 David Coulthard,david-coulthard
-Martin Brundle,martin-brundle
-Tom Pryce,tom-pryce
-Jean Alesi,jean-alesi
-Heikki Kovaleinen,heikki-kovaleinen
-Mark Webber,mark-webber
 Felipe Massa,felipe-massa
+Gilles Villeneuve,gilles-villeneuve
+Heikki Kovaleinen,heikki-kovaleinen
+Jean Alesi,jean-alesi
+Jean-Pierre Jabouille,jean-pierre-jabouille
+Jules Bianchi,jules-bianchi
 Kamui Kobayashi,kamui-kobayashi
+Lella Lombardi,lella-lombardi
+Mark Webber,mark-webber
+Martin Brundle,martin-brundle
 Pastor Maldonado,pastor-maldonado
+Roland Ratzenberger,roland-ratzenberger
+Ronnie Peterson,ronnie-peterson
+Susie Wolff,susie-wolff
+Tatiana Calderon,tatiana-calderon
+Tom Pryce,tom-pryce
 Other teams,label
-Eurobrun,eurobrun
-Jordan,jordan
+BAR Honda,bar-honda
+BMW Sauber,bmw-sauber
+Caterham,caterham
 De Tomaso,de-tomaso
+Eurobrun,eurobrun
+Jaguar,jaguar
+Jordan,jordan
+Manor,manor
+Maserati,maserati
 Minardi,minardi
 Spyker,spyker
-Manor,manor
-Caterham,caterham
-BMW Sauber,bmw-sauber
-Jaguar,jaguar
-BAR Honda,bar-honda
 Misc.,label
 F1,f1-logo
 F1,f1-classic-logo
-Pirelli Wet,pirelli-wet
-Pirelli Intermediate,pirelli-intermediate
-Pirelli Hypersoft,pirelli-hypersoft
-Pirelli Ultrasoft,pirelli-ultrasoft
-Pirelli Supersoft,pirelli-supersoft
-Pirelli Soft,pirelli-soft
-Pirelli Medium,pirelli-medium
+Honda,honda
 Pirelli Hard,pirelli-hard
+Pirelli Hypersoft,pirelli-hypersoft
+Pirelli Intermediate,pirelli-intermediate
+Pirelli Medium,pirelli-medium
+Pirelli Soft,pirelli-soft
 Pirelli Superhard,pirelli-superhard
+Pirelli Supersoft,pirelli-supersoft
+Pirelli Ultrasoft,pirelli-ultrasoft
+Pirelli Wet,pirelli-wet
