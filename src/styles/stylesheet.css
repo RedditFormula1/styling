@@ -2250,6 +2250,7 @@ body.res-nightmode #stylesheet_contents {
   font-size   : 13px;
   font-weight : 400;
   padding     : 8px;
+  color       : #FFFFFF
 }
 
 .titlebox .md > ul > li blockquote table tr:nth-child(odd) {
