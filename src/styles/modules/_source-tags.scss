@@ -1,0 +1,31 @@
+// Tags baby!
+.linkflair-rating-1,
+.linkflair-rating-2,
+.linkflair-rating-3 {
+  .thumbnail {
+    overflow: visible;
+    
+    &:after {
+      background   : url(%%sprite-source-ratings%%);
+      content      : '';
+      height       : 5px;
+      left         : 0;
+      margin-top   : 1px;
+      position     : absolute;
+      top          : 100%;
+      width        : 100%;
+    }
+  }
+}
+
+.linkflair-rating-1 .thumbnail:after {
+  background-position: 0 -10px;
+}
+
+.linkflair-rating-2 .thumbnail:after {
+  background-position: 0 -5px;
+}
+
+.linkflair-rating-3 .thumbnail:after {
+  background-position: 0 0;
+}
