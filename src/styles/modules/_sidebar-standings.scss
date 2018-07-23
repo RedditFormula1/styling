@@ -1,0 +1,41 @@
+.titlebox .md > blockquote:last-of-type {
+  background    : #fff;
+  border-bottom : 10px solid #ededed;
+  padding       : 10px;
+
+  > table {
+    width : 100%;
+  
+    tr th,
+    tr td {
+      padding  : 10px 5px;
+      position : relative;
+    }
+
+    tr th {
+      background : #f1f1f1;
+    }
+
+    tr td:first-child {
+      padding : 10px 7px 10px 3px;
+      
+      a {
+        height   : 100%;
+        position : absolute;
+        right    : 0;
+        top      : 0;
+        width    : 3px;
+      }
+    }
+
+    tr {
+      &:nth-child(odd) {
+        background : #f7f7f7;
+      }
+
+      &:nth-child(even) {
+        background : #f0f0f0;
+      }
+    }
+  }
+}
