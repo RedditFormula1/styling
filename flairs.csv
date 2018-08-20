@@ -39,7 +39,6 @@ Lando Norris,lando-norris
 Nicholas Latifi,nicholas-latifi
 Pascal Wehrlein,pascal-wehrlein
 Robert Kubica,robert-kubica
-Santino Ferrucci,santino-ferrucci
 Sebastian Buemi,sebastian-buemi
 WDCs,label
 Alain Prost,alain-prost
@@ -81,6 +80,7 @@ Cooper,cooper
 Lotus,lotus
 Matra,matra
 Tyrrell,tyrrell
+Vanwall,vanwall
 Other drivers,label
 Carmen Jorda,carmen-jorda
 David Coulthard,david-coulthard
@@ -113,8 +113,8 @@ Maserati,maserati
 Minardi,minardi
 Spyker,spyker
 Misc.,label
-F1,f1-logo
 F1,f1-classic-logo
+F1,f1-logo
 Honda,honda
 Pirelli Hard,pirelli-hard
 Pirelli Hypersoft,pirelli-hypersoft
@@ -125,3 +125,4 @@ Pirelli Superhard,pirelli-superhard
 Pirelli Supersoft,pirelli-supersoft
 Pirelli Ultrasoft,pirelli-ultrasoft
 Pirelli Wet,pirelli-wet
+Sergio Marchionne,sergio-marchionne
