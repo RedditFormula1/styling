@@ -1,9 +1,8 @@
 // Default label styles
 p.title > .linkflairlabel {
   background    : #323232;
-  border-radius : 3px;
   color         : #fff;
-  padding       : 0 4px;
+  padding       : 1px 4px;
 }
 
 // Golden star
@@ -16,65 +15,97 @@ p.title > .linkflairlabel {
   width        : 18px;
 }
 
-.thing.linkflair-star {
-  border-left : 5px solid #ecbe24;
-}
-
+// Hide flairs from post overview
 .sitetable.linklisting .thing .flair,
 div.linkflair-star p.title > .linkflairlabel,
 ul.content span.flair {
   @extend %display-none;
 }
 
+// Link flairs
+.linkflairlabel {
+  border      : 0;
+  color       : #000;
+  line-height : 1.5em;
+}
 
-.linkflair-paywall p.title > .linkflairlabel {
+.linkflair-paywall p .linkflairlabel {
   color : #73e673;
 }
 
-.linkflair-rumour p.title > .linkflairlabel {
+.linkflair-rumour p .linkflairlabel {
   color : orange;
 }
 
-.linkflair-video p.title > .linkflairlabel {
+.linkflair-video p .linkflairlabel {
   color : red;
 }
 
-.linkflair-off-topic p.title > .linkflairlabel {
+.linkflair-off-topic p .linkflairlabel {
   color : #1be3f1;
 }
 
-.linkflair-mod-comment p.title > .linkflairlabel {
-  background-color : #ccc !important;
-  border           : 1px solid #BEBEBE !important;
-  color            : #000 !important;
+.linkflair-highlight p .linkflairlabel,
+.linkflair-mod-comment p .linkflairlabel {
+  background-color : #ccc;
+  color            : #222;
 }
 
-.linkflair-mod-removal p.title > .linkflairlabel {
-  background-color : #FF7878 !important;
-  border           : 1px solid #FF3A3A !important;
-  color            : #000 !important;
+.linkflair-mod-removal p .linkflairlabel {
+  background-color : #FF7878;
+  color            : #000;
 }
 
-.linkflair-sub-wec p.title > .linkflairlabel {
-  background-color : #234e70 !important;
-  color            : #96BF0D !important;
+.linkflair-sub-wec p .linkflairlabel {
+  background-color : #234e70;
+  color            : #96BF0D;
 }
 
-.linkflair-sub-all p.title > .linkflairlabel {
-  background-color : #ff4500 !important;
-  color            : #fff !important;
+.linkflair-sub-all p .linkflairlabel {
+  background-color : #ff4500;
+  color            : #fff;
 }
 
-.linkflair-sub-f1feederseries p.title > .linkflairlabel {
-  background-color : #00E1E2 !important;
-  color            : #000 !important;
+.linkflair-sub-f1feederseries p .linkflairlabel {
+  background-color : #00E1E2;
+  color            : #000;
 }
 
-.linkflair-sub-supergt p.title > .linkflairlabel {
-  background-color : #BA3538 !important;
-  color            : #FFF !important;
+.linkflair-sub-supergt p .linkflairlabel {
+  background-color : #BA3538;
+  color            : #FFF;
 }
 
+.linkflair-practice p .linkflairlabel,
+.linkflair-qualifying p .linkflairlabel,
+.linkflair-race p .linkflairlabel {
+  color : #fff;
+}
+
+.linkflair-practice p .linkflairlabel {
+  background : #d2322d;
+}
+
+.linkflair-qualifying p .linkflairlabel {
+  background : #369;
+}
+
+.linkflair-post-qualifying p .linkflairlabel,
+.linkflair-post-race p .linkflairlabel {
+  background : #6D6D6D;
+  color      : #FFF;
+}
+
+.linkflair-race p .linkflairlabel {
+  background : #6db81c;
+}
+
+.linkflair-feature p .linkflairlabel {
+  background : #000;
+  color      : #fff;
+}
+
+// Posts marked with colored border
 .thing.linkflair.linkflair-hub {
   border-left : 5px solid #3c3c3c;
 }
@@ -101,39 +132,6 @@ ul.content span.flair {
   border-left : 5px solid #0D0D0D;
 }
 
-.linkflairlabel {
-  border      : 0;
-  color       : #000;
-  line-height : 1.5em;
-}
-
-.linkflair-practice p.title > .linkflairlabel,
-.linkflair-qualifying p.title > .linkflairlabel,
-.linkflair-race p.title > .linkflairlabel {
-  border  : 0;
-  color   : #fff;
-  display : inline-block;
-}
-
-.linkflair-practice p.title > .linkflairlabel {
-  background : #d2322d;
-}
-
-.linkflair-qualifying p.title > .linkflairlabel {
-  background : #369;
-}
-
-.linkflair-post-qualifying p.title > .linkflairlabel,
-.linkflair-post-race p.title > .linkflairlabel {
-  background : #6D6D6D;
-  color      : #FFF;
-}
-
-.linkflair-race p.title > .linkflairlabel {
-  background : #6db81c;
-}
-
-.linkflair-feature p.title > .linkflairlabel {
-  background : #000;
-  color      : #fff;
+.thing.linkflair-star {
+  border-left : 5px solid #ecbe24;
 }
