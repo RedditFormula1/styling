@@ -1,0 +1,139 @@
+// Default label styles
+p.title > .linkflairlabel {
+  background    : #323232;
+  border-radius : 3px;
+  color         : #fff;
+  padding       : 0 4px;
+}
+
+// Golden star
+.linkflair-star p.title:before {
+  @extend %display-inline-block;
+  background   : url(%%sprite%%) -111px -1px no-repeat;
+  content      : "";
+  height       : 16px;
+  margin-right : 5px;
+  width        : 18px;
+}
+
+.thing.linkflair-star {
+  border-left : 5px solid #ecbe24;
+}
+
+.sitetable.linklisting .thing .flair,
+div.linkflair-star p.title > .linkflairlabel,
+ul.content span.flair {
+  @extend %display-none;
+}
+
+
+.linkflair-paywall p.title > .linkflairlabel {
+  color : #73e673;
+}
+
+.linkflair-rumour p.title > .linkflairlabel {
+  color : orange;
+}
+
+.linkflair-video p.title > .linkflairlabel {
+  color : red;
+}
+
+.linkflair-off-topic p.title > .linkflairlabel {
+  color : #1be3f1;
+}
+
+.linkflair-mod-comment p.title > .linkflairlabel {
+  background-color : #ccc !important;
+  border           : 1px solid #BEBEBE !important;
+  color            : #000 !important;
+}
+
+.linkflair-mod-removal p.title > .linkflairlabel {
+  background-color : #FF7878 !important;
+  border           : 1px solid #FF3A3A !important;
+  color            : #000 !important;
+}
+
+.linkflair-sub-wec p.title > .linkflairlabel {
+  background-color : #234e70 !important;
+  color            : #96BF0D !important;
+}
+
+.linkflair-sub-all p.title > .linkflairlabel {
+  background-color : #ff4500 !important;
+  color            : #fff !important;
+}
+
+.linkflair-sub-f1feederseries p.title > .linkflairlabel {
+  background-color : #00E1E2 !important;
+  color            : #000 !important;
+}
+
+.linkflair-sub-supergt p.title > .linkflairlabel {
+  background-color : #BA3538 !important;
+  color            : #FFF !important;
+}
+
+.thing.linkflair.linkflair-hub {
+  border-left : 5px solid #3c3c3c;
+}
+
+.thing.linkflair.linkflair-race {
+  border-left : 5px solid #6db81c;
+}
+
+.thing.linkflair.linkflair-qualifying {
+  border-left : 5px solid #369;
+}
+
+.thing.linkflair.linkflair-post-qualifying,
+.thing.linkflair.linkflair-post-race {
+  border-left : 5px solid #6D6D6D;
+}
+
+.thing.linkflair.linkflair-practice {
+  border-left : 5px solid #d2322d;
+}
+
+.thing.linkflair.linkflair-feature,
+.thing.linkflair.linkflair-meetup {
+  border-left : 5px solid #0D0D0D;
+}
+
+.linkflairlabel {
+  border      : 0;
+  color       : #000;
+  line-height : 1.5em;
+}
+
+.linkflair-practice p.title > .linkflairlabel,
+.linkflair-qualifying p.title > .linkflairlabel,
+.linkflair-race p.title > .linkflairlabel {
+  border  : 0;
+  color   : #fff;
+  display : inline-block;
+}
+
+.linkflair-practice p.title > .linkflairlabel {
+  background : #d2322d;
+}
+
+.linkflair-qualifying p.title > .linkflairlabel {
+  background : #369;
+}
+
+.linkflair-post-qualifying p.title > .linkflairlabel,
+.linkflair-post-race p.title > .linkflairlabel {
+  background : #6D6D6D;
+  color      : #FFF;
+}
+
+.linkflair-race p.title > .linkflairlabel {
+  background : #6db81c;
+}
+
+.linkflair-feature p.title > .linkflairlabel {
+  background : #000;
+  color      : #fff;
+}

@@ -1,9 +1,13 @@
 // Import the old styles
 @import 'stylesheet';
 
+// Extends
+@import 'extends/display';
+
 // Converted stuff
-@import 'modules/flairs';
-@import 'modules/verified-users';
-@import 'modules/source-tags';
+@import 'modules/link-flairs';
 @import 'modules/sidebar-standings';
+@import 'modules/source-tags';
 @import 'modules/team-colors';
+@import 'modules/user-flairs';
+@import 'modules/verified-users';

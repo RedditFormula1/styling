@@ -33,7 +33,7 @@ gulp.task('styles', function() {
 gulp.task('flairs', function() {
   const spriteData = gulp.src('./src/flairs/*.png').pipe(spritesmith({
     imgName: 'flairs.png',
-    cssName: '_flairs.scss',
+    cssName: '_user-flairs.scss',
     cssTemplate: './src/flair-template.css.handlebars'
   }))
 
