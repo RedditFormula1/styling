@@ -82,24 +82,34 @@ Matra,matra
 Tyrrell,tyrrell
 Vanwall,vanwall
 Other drivers,label
+Bruce McLaren,bruce-mclaren
 Carmen Jorda,carmen-jorda
+Dan Gurney,dan-gurney
 David Coulthard,david-coulthard
+Desiré Wilson,desire-wilson
+Eddie Irvine,eddie-irvine
 Felipe Massa,felipe-massa
 Fernando Alonso,fernando-alonso-indy500
 Gilles Villeneuve,gilles-villeneuve
 Heikki Kovalainen,heikki-kovalainen
 Jean Alesi,jean-alesi
 Jean-Pierre Jabouille,jean-pierre-jabouille
+Jolyon Palmer,jolyon-palmer
+Juan Pablo Montoya,juan-pablo-montoya
 Jules Bianchi,jules-bianchi
 Kamui Kobayashi,kamui-kobayashi
+Karun Chandhok,karun-chandhok
 Lella Lombardi,lella-lombardi
 Mark Webber,mark-webber
 Martin Brundle,martin-brundle
+Nick Heidfeld,nick-heidfeld
 Pastor Maldonado,pastor-maldonado
 Roland Ratzenberger,roland-ratzenberger
 Ronnie Peterson,ronnie-peterson
 Rubens Barrichello,rubens-barrichello
+Stirling Moss,stirling-moss
 Susie Wolff,susie-wolff
+Taki Inoue,taki-inoue
 Tatiana Calderon,tatiana-calderon
 Tom Pryce,tom-pryce
 Other teams,label
@@ -114,12 +124,14 @@ Hesketh,hesketh
 Jaguar,jaguar
 Jordan,jordan
 Life,life
+Ligier,ligier
 Manor,manor
 Marussia,marussia
 Maserati,maserati
 Minardi,minardi
 Spyker,spyker
 Super Aguri,super-aguri
+Toyota,toyota
 Misc.,label
 F1,f1-classic-logo
 F1,f1-logo
