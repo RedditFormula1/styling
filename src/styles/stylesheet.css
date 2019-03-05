@@ -2871,11 +2871,3 @@ a[href='/topEnd'] {
 .usertext {
   max-height : 10000px;
 }
-
-.linkflair-formula1 .thumbnail {
-  background          : url(%%F1%%);
-  background-repeat   : no-repeat;
-  background-position : center;
-  background-size     : 100%;
-  height              : 50px;
-}
