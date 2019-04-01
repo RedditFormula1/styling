@@ -1,0 +1,30 @@
+.flair:before {
+  background-image    : url(%%flairs%%);
+  background-repeat   : no-repeat;
+  content             : "";
+  display             : inline-block;
+  height              : 16px;
+  margin-right        : 4px;
+  vertical-align      : middle;
+  width               : 22px;
+  @extend .flair-aaa-default:before;
+}
+
+.flair-wec-flair-1:before {
+  background-position: 0px 0px;
+}
+.flair-wec-flair-2:before {
+  background-position: 0px -32px;
+}
+.flair-wec-flair-3:before {
+  background-position: 0px -64px;
+}
+.flair-wec-flair-4:before {
+  background-position: -100px 0px;
+}
+.flair-wec-flair-5:before {
+  background-position: -100px -32px;
+}
+.flair-wec-flair-6:before {
+  background-position: -100px -64px;
+}

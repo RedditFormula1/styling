@@ -1,0 +1,24 @@
+.subreddit-rules-page {
+  background: $grey;
+  color: white;
+
+  .md {
+    color: white;
+
+    a {
+      color: $green;
+    }
+  }
+
+  .md-container .md .subreddit-rule-description {
+    color: white;
+  }
+
+  .md-container .md .subreddit-rule-violation-reason {
+    color: $green;
+  }
+
+  .subreddit-rule-item:hover {
+    background: none;
+  }
+}

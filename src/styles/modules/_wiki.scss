@@ -1,0 +1,30 @@
+.wiki-page .wiki-page-content {
+  background: $grey;
+  margin: 5px;
+  padding: 25px;
+  box-sizing: border-box;
+  width: calc(100% - 310px);
+
+  .md {
+    color: white;
+
+    h1, h2, h3, h4, h5 {
+      color: white;
+    }
+
+    a {
+      color: $green;
+    }
+
+  }
+
+  &.md-container {
+    em {
+      color: white;
+    }
+
+    hr {
+      border-color: $green;
+    }
+  }
+}

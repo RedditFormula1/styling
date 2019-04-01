@@ -1,0 +1,195 @@
+.side {
+  background: $grey;
+  color: white;
+  margin-top: 5px;
+  padding: 5px;
+  box-sizing: border-box;
+
+  .spacer {
+    margin: 5px 0 0 0;
+  }
+
+  .md {
+    > ul,
+    > h1,
+    > p,
+    > blockquote {
+      @extend %display-none;
+    }
+
+    > blockquote:last-of-type {
+      display: block;
+    }
+
+    blockquote {
+      border: none;
+      margin: 5px 0 0 0;
+      padding: 0;
+
+      h1 {
+        margin: 30px 0 10px;
+        font-weight: 400;
+        color: $green;
+      }
+
+      table {
+        width: 100%;
+        margin-bottom: 30px;
+        color: white;
+
+        td, th {
+          border-color: $green;
+        }
+      }
+    }
+  }
+}
+
+#search input[type=text] {
+  width: 100%;
+  border-color: $green;
+  background: none;
+  color: white;
+}
+
+.infobar {
+  border-radius: 0;
+  background: none;
+  border: none;
+}
+
+.morelink {
+  background: $green;
+  border: none;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 400;
+
+  &:hover {
+    background: lighten($green, 25);
+
+    a {
+      color: darken($green, 25%);
+    }
+  }
+
+  a {
+    color: white;
+  }
+  
+  .nub {
+    display: none;
+  }
+}
+
+.titlebox {
+  text-align: center;
+  
+  h1 {
+    margin: 30px 0;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    
+    a {
+      color: white;
+      font-size: 0;
+  
+      &:after {
+        content: 'WECFeederSeries';
+        font-size: 16px;
+        font-weight: 400;
+        color: $green;
+        letter-spacing: 0.05em;
+      }
+    }
+  }
+
+  h4 {
+    color: white;
+  }
+
+  form.toggle {
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  .tagline {
+    margin: 25px 0;
+  }
+
+  a {
+    color: $green;
+  }
+
+  .bottom {
+    display: none;
+  }
+}
+
+.titlebox form.toggle,
+.leavemoderator {
+  background: none;
+}
+
+.subscribers, .users-online {
+  color: $green;
+  margin: 10px 0;
+  display: block;
+  
+  .word {
+    display: none;
+  }
+
+  &:before {
+    display: none;
+  }
+}
+
+.subscribers .number:after {
+  content: ' armchair experts';
+}
+
+.users-online .number:after {
+  content: ' former F1 drivers';
+}
+
+.icon-menu a {
+  background: none;
+  color: $green;
+}
+
+.side .spacer {
+  background: none;
+}
+
+.res-voteEnhancements-highlightScores span.score,
+.gadget .score {
+  color: inherit;
+}
+
+.linkinfo {
+  background: none;
+  border: none;
+}
+
+.sidecontentbox .flair {
+  display: none;
+}
+
+.side h2:last-child {
+  position: absolute;
+  top: 120px;
+  left: 50px;
+  width: 154px;
+  height: 42px;
+  display: block;
+  background: url(%%wec-logo%%) center / contain;
+  z-index: 999;
+  
+  a {
+    text-indent: -999px;
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+}

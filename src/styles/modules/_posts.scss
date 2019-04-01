@@ -1,0 +1,158 @@
+.link .usertext-body .md {
+  background: none;
+  border: none;
+  border-radius: 0;
+  color: white;
+  padding: 25px 0;
+
+  hr {
+    background: $green;
+  }
+}
+
+.linklisting .md, .commentarea .md {
+  color: white;
+}
+
+.res-commentBoxes .thing.comment,
+.thing.comment {
+  background: $grey;
+  border: none !important;
+  border-radius: 0 !important;
+  padding-top: 10px 10px 0 !important;
+  margin: 0 5px 5px !important;
+
+  .tagline {
+    a {
+      color: $green;
+    }
+  }
+
+  .score {
+    &.dislikes {
+      color: red;
+    }
+
+    &.unvoted {
+      color: #888;
+    }
+
+    &.likes {
+      color: white;
+    }
+  }
+}
+
+.res-commentBoxes.res-commentBoxes-rounded .comment {
+  border-radius: 0 !important;
+}
+
+.thing.comment .entry.res-selected {
+  background-color: $grey !important;
+  border-left: 5px solid $green;
+  padding-left: 5px;
+}
+
+.thing.comment .entry.res-selected .md-container {
+  background-color: $grey !important;
+}
+
+.res-commentBoxes .thing.comment .comment,
+.res-commentBoxes .thing.comment .comment .comment .comment,
+.res-commentBoxes .thing.comment .comment .comment .comment .comment .comment,
+.res-commentBoxes .thing.comment .comment .comment .comment .comment .comment .comment .comment,
+.res-commentBoxes .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
+  background: none !important;
+  padding: 20px 0 0 !important;
+  border-top: 1px dashed #111 !important;
+}
+
+.usertext.grayed .usertext-body {
+  background: none;
+}
+
+.submit.content {
+  .tabmenu {
+    position: relative;
+
+    &.formtab a {
+      border: 1px solid $green;
+      border-bottom: none;
+      background: $grey;
+    }
+
+    &.formtab .selected a {
+      color: white;
+      background: $green;
+    }
+  }
+
+  .formtabs-content {
+    background: $grey;
+    color: white;
+    border-color: $green;
+  }
+
+  .roundfield {
+    background: none;
+    border-radius: 0;
+  }
+
+  .md {
+    color: white;
+
+    a {
+      color: $green;
+    }
+  }
+
+  .info-notice {
+    color: white;
+    border-color: $green;
+  }
+
+  #items-required {
+    color: #888;
+  }
+}
+.content h1 {
+  color: white;
+}
+
+.arrow {
+  background: url(%%wec-votes%%) no-repeat;
+  width: 25px;
+  height: 20px;
+  margin: 5px auto;
+
+  &.up {
+    background: url(%%wec-votes%%) no-repeat;
+    background-position: 0px -20px;
+  }
+
+  &.upmod {
+    background: url(%%wec-votes%%) no-repeat;
+    background-position: 0px 0px;
+  }
+
+  &.down {
+    background: url(%%wec-votes%%) no-repeat;
+    background-position: -25px -20px;
+  }
+
+  &.downmod {
+    background: url(%%wec-votes%%) no-repeat;
+    background-position: -25px 0px;
+  }
+}
+
+body >.content .link .midcol,
+.midcol-spacer,
+.comment .midcol {
+  width: 35px !important;
+}
+
+.new-comment .usertext-body,
+.usertext.border .usertext-body {
+  background-color: inherit !important;
+}

@@ -1,0 +1,104 @@
+#siteTable {
+  width: calc(100% - 310px);
+  margin-left: 5px;
+  
+  .thing {
+    background: pink;
+    box-sizing: border-box;
+    background: #313131;
+    padding: 10px 0;
+    margin-bottom: 5px;
+    border-left: 5px solid $green;
+
+    .expando-button {
+      background: none;
+      color: #888;
+      letter-spacing: -1px;
+      font-size: 16px;
+      padding: 0 5px 0 0;
+      display: flex;
+      background: none;
+      justify-content: center;
+      align-items: center;
+
+      &:hover {
+        letter-spacing: 2px;
+      }
+
+      &:after {
+        content: '<>';
+      }
+    }
+
+    .flair {
+      display: none;
+    }
+
+    .tagline {
+      a {
+        color: $green;
+      }
+    }
+
+    .entry.res-selected, .entry.res-selected .md-container {
+      background: inherit !important;
+    }
+  }
+}
+
+body.mod-toolbox .tb-general-button,
+body.mod-toolbox li a.tb-general-button,
+body.mod-toolbox .tb-bracket-button {
+  background: none;
+  border-width: 1px;
+  border-color: $green;
+  color: $green;
+  letter-spacing: 0;
+}
+
+.thing.visited .title, .thing.visited .source-url {
+  color: white;
+}
+
+.link .title {
+  color: white;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  margin-bottom: 10px;
+
+  &:visited {
+    color: inherit;
+  }
+}
+
+.linkflairlabel {
+  display: block;
+  background: none;
+  border: none;
+  color: $green;
+  text-transform: uppercase;
+  font-weight: 400;
+  max-width: 9999px;
+  padding: 0;
+  margin-bottom: 5px;
+}
+
+.thumbnail {
+  &.self,
+  &.default {
+    background: url(%%wec-helmet%%) no-repeat center;
+  }
+}
+
+.NERPageMarker {
+  background: none;
+  border-color: $green;
+}
+
+body >.content .link .rank, .rank-spacer {
+  margin: 0;
+  width: 35px !important;
+  line-height: 75px;
+  text-align: center;
+  min-height: 1px;
+}

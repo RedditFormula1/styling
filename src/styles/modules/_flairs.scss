@@ -1,0 +1,187 @@
+.flair {
+  font-size: 0;
+  margin-right: 5px;
+  padding: 2px 0;
+  border: none;
+  background: none;
+}
+
+.flair:before {
+  background-image  : url(%%wec-flairs%%);
+  background-repeat : no-repeat;
+  content           : "";
+  display           : inline-block;
+  height            : 32px;
+  margin-right      : 4px;
+  vertical-align    : middle;
+  width             : 100px;
+  @extend .flair-aaa-default:before;
+}
+
+.flair-aaa-default:before,
+.flair-antonio-giovinazzi:before,
+.flair-bmw-sauber:before,
+.flair-carlos-sainz-jr:before,
+.flair-cooper:before,
+.flair-de-tomaso:before,
+.flair-eurobrun:before,
+.flair-ferrari:before,
+.flair-haas:before,
+.flair-hall-of-fame:before,
+.flair-heikki-kovalainen:before,
+.flair-hesketh:before,
+.flair-history-project:before,
+.flair-honda:before,
+.flair-jack-aitken:before,
+.flair-jack-brabham:before,
+.flair-jackie-stewart:before,
+.flair-jacques-villeneuve:before,
+.flair-jaguar:before,
+.flair-james-hunt:before,
+.flair-jean-alesi:before,
+.flair-jean-pierre-jabouille:before,
+.flair-jean-todt:before,
+.flair-jenson-button:before,
+.flair-jim-clark:before,
+.flair-jochen-rindt:before,
+.flair-jody-scheckter:before,
+.flair-john-surtees:before,
+.flair-jolyon-palmer:before {
+  background-position: 0px 0px;
+}
+
+.flair-alain-prost:before,
+.flair-arrows:before,
+.flair-brabham:before,
+.flair-carmen-jorda:before,
+.flair-damon-hill:before,
+.flair-denny-hulme:before,
+.flair-f1-classic-logo:before,
+.flair-flair-team:before,
+.flair-jordan:before,
+.flair-juan-manuel-fangio:before,
+.flair-juan-pablo-montoya:before,
+.flair-jules-bianchi:before,
+.flair-kamui-kobayashi:before,
+.flair-karun-chandhok:before,
+.flair-keke-rosberg:before,
+.flair-kevin-magnussen:before,
+.flair-kimi-raikkonen:before,
+.flair-lance-stroll:before,
+.flair-lando-norris:before,
+.flair-lella-lombardi:before,
+.flair-lewis-hamilton:before,
+.flair-life:before,
+.flair-ligier:before,
+.flair-lotus:before,
+.flair-manor:before,
+.flair-marcus-ericsson:before {
+  background-position: 0px -32px;
+}
+
+.flair-alan-jones:before,
+.flair-ayrton-senna:before,
+.flair-brawn-gp:before,
+.flair-caterham:before,
+.flair-dan-gurney:before,
+.flair-desire-wilson:before,
+.flair-f1-logo:before,
+.flair-force-india:before,
+.flair-mark-webber:before,
+.flair-martin-brundle:before,
+.flair-marussia:before,
+.flair-maserati:before,
+.flair-matra:before,
+.flair-max-verstappen:before,
+.flair-mclaren:before,
+.flair-mercedes:before,
+.flair-michael-schumacher:before,
+.flair-mika-hakkinen:before {
+  background-position: 0px -64px;
+}
+
+.flair-alberto-ascari:before,
+.flair-bar-honda:before,
+.flair-brendon-hartley:before,
+.flair-charles-leclerc:before,
+.flair-daniel-ricciardo:before,
+.flair-eddie-irvine:before,
+.flair-felipe-massa:before,
+.flair-gilles-villeneuve:before,
+.flair-mario-andretti:before,
+.flair-mike-hawthorn:before,
+.flair-minardi:before,
+.flair-nelson-piquet:before,
+.flair-nicholas-latifi:before,
+.flair-nick-heidfeld:before,
+.flair-nico-hulkenberg:before,
+.flair-nico-rosberg:before,
+.flair-nigel-mansell:before,
+.flair-niki-lauda:before,
+.flair-pascal-wehrlein:before {
+  background-position: -100px 0px;
+}
+
+.flair-alfa-romeo:before,
+.flair-benetton:before,
+.flair-brm:before,
+.flair-charlie-whiting:before,
+.flair-daniil-kvyat:before,
+.flair-emerson-fittipaldi:before,
+.flair-fernando-alonso-indy500:before,
+.flair-giuseppe-farina:before,
+.flair-pastor-maldonado:before,
+.flair-phil-hill:before,
+.flair-pierre-gasly:before,
+.flair-pirelli-hard:before,
+.flair-pirelli-hypersoft:before,
+.flair-pirelli-intermediate:before,
+.flair-pirelli-medium:before,
+.flair-pirelli-soft:before,
+.flair-pirelli-superhard:before,
+.flair-pirelli-supersoft:before,
+.flair-pirelli-ultrasoft:before,
+.flair-pirelli-wet:before,
+.flair-red-bull:before,
+.flair-renault:before,
+.flair-robert-kubica:before,
+.flair-roland-ratzenberger:before {
+  background-position: -100px -32px;
+}
+
+.flair-andrea-moda:before,
+.flair-bernie-ecclestone:before,
+.flair-bruce-mclaren:before,
+.flair-chase-carey:before,
+.flair-david-coulthard:before,
+.flair-esteban-ocon:before,
+.flair-fernando-alonso:before,
+.flair-graham-hill:before,
+.flair-romain-grosjean:before,
+.flair-ronnie-peterson:before,
+.flair-ross-brawn:before,
+.flair-rubens-barrichello:before,
+.flair-safety-car:before,
+.flair-sauber:before,
+.flair-sebastian-buemi:before,
+.flair-sebastian-vettel:before,
+.flair-sergey-sirotkin:before,
+.flair-sergio-marchionne:before,
+.flair-sergio-perez:before,
+.flair-spyker:before,
+.flair-stirling-moss:before,
+.flair-stoffel-vandoorne:before,
+.flair-super-aguri:before,
+.flair-susie-wolff:before,
+.flair-taki-inoue:before,
+.flair-tatiana-calderon:before,
+.flair-tom-pryce:before,
+.flair-toro-rosso:before,
+.flair-toyota:before,
+.flair-tyrrell:before,
+.flair-valtteri-bottas:before,
+.flair-vanwall:before,
+.flair-will-buxton:before,
+.flair-williams:before {
+  background-position: -100px -64px;
+}

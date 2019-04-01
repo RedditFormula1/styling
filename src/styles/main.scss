@@ -1,15 +1,30 @@
-// Import the old styles
-@import 'stylesheet';
+// Variables
+@import 'variables/colors';
 
 // Extends
 @import 'extends/display';
 
 // Converted stuff
 @import 'modules/header';
-@import 'modules/link-flairs';
-@import 'modules/flags';
-@import 'modules/sidebar-standings';
-@import 'modules/source-tags';
-@import 'modules/team-colors';
-@import 'modules/user-flairs';
-@import 'modules/verified-users';
+@import 'modules/sidebar';
+@import 'modules/frontpage';
+@import 'modules/posts';
+@import 'modules/flairs';
+@import 'modules/rules';
+@import 'modules/wiki';
+
+body, html {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: black;
+  background-image: linear-gradient(to bottom right,transparent 0,transparent 62%,#8bc63e);
+  background-position: bottom right;
+  background-attachment: fixed;
+}
+
+.content {
+  margin-top: 5px;
+}
+
+a {
+  color: $green;
+}

@@ -24,9 +24,9 @@ gulp.task('styles', function() {
     .pipe(sass({
       outputStyle: 'compressed'
     }))
-    .pipe(autoprefixer({
+    /*.pipe(autoprefixer({
       browsers: ['last 2 versions']
-    }))
+    }))*/
     .pipe(gulp.dest(project.dist))
 })
 
@@ -37,11 +37,20 @@ gulp.task('flairs', function() {
     cssTemplate: './src/flair-template.css.handlebars'
   }))
 
+  const spriteData2 = gulp.src('./src/wec-flairs/*.png').pipe(spritesmith({
+    imgName: 'wec-flairs.png',
+    cssName: '_wec-flairs.scss',
+    cssTemplate: './src/flair-template.css.handlebars'
+  }))
+
   const imageStream = spriteData.img.pipe(gulp.dest('./src/images/'))
+  const imageStream2 = spriteData2.img.pipe(gulp.dest('./src/images/'))
 
   const cssStream = spriteData.css.pipe(gulp.dest('./src/styles/modules/'))
+  const cssStream2 = spriteData2.css.pipe(gulp.dest('./src/styles/modules/'))
 
-  return merge(imageStream, cssStream)
+  merge(imageStream, cssStream)
+  return merge(imageStream2, cssStream2)
 })
 
 gulp.task('images', function() {
