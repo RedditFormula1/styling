@@ -1,45 +1,63 @@
 text,class
-2018 Teams,label
+2019 Teams,label
+Alfa Romeo,alfa-romeo
 Ferrari,ferrari
-Force India,force-india
 Haas,haas
 McLaren,mclaren
 Mercedes,mercedes
+Racing Point,racing-point
 Red Bull,red-bull
 Renault,renault
-Sauber,sauber
 Toro Rosso,toro-rosso
 Williams,williams
-2018 Drivers,label
-Brendon Hartley,brendon-hartley
-Carlos Sainz Jr,carlos-sainz-jr
+2019 Drivers,label
+Alexander Albon,alexander-albon
+Antonio Giovinazzi,antonio-giovinazzi
+Carlos Sainz Jr.,carlos-sainz-jr
 Charles Leclerc,charles-leclerc
 Daniel Ricciardo,daniel-ricciardo
-Esteban Ocon,esteban-ocon
-Fernando Alonso,fernando-alonso
+Daniil Kvyat,daniil-kvyat
+George Russel,george-russell
 Kevin Magnussen,kevin-magnussen
 Kimi Räikkönen,kimi-raikkonen
 Lance Stroll,lance-stroll
+Lando Norris,lando-norris
 Lewis Hamilton,lewis-hamilton
-Marcus Ericsson,marcus-ericsson
 Max Verstappen,max-verstappen
-Nico Hulkenberg,nico-hulkenberg
+Nico Hülkenberg,nico-hulkenberg
 Pierre Gasly,pierre-gasly
+Robert Kubica,robert-kubica
 Romain Grosjean,romain-grosjean
 Sebastian Vettel,sebastian-vettel
-Sergey Sirotkin,sergey-sirotkin
 Sergio Perez,sergio-perez
-Stoffel Vandoorne,stoffel-vandoorne
 Valtteri Bottas,valtteri-bottas
-2018 Test / Junior Drivers,label
-Antonio Giovinazzi,antonio-giovinazzi
-Daniil Kvyat,daniil-kvyat
+2019 Reserve Drivers,label
+Esteban Ocon,esteban-ocon
 Jack Aitken,jack-aitken
-Lando Norris,lando-norris
 Nicholas Latifi,nicholas-latifi
-Pascal Wehrlein,pascal-wehrlein
-Robert Kubica,robert-kubica
-Sebastian Buemi,sebastian-buemi
+Oliver Turvey,oliver-turvey
+Sebastien Buemi,sebastien-buemi
+2019 Driver Numbers,label
+#3 Daniel Ricciardo,no-3
+#4 Lando Norris,no-4
+#5 Sebastian Vettel,no-5
+#7 Kimi Räikkönen,no-7
+#8 Romain Grosjean,no-8
+#10 Pierre Gasly,no-10
+#11 Sergio Perez,no-11
+#16 Charles Leclerc,no-16
+#18 Lance Stroll,no-18
+#20 Kevin Magnussen,no-20
+#23 Alexander Albon,no-23
+#26 Daniil Kvyat,no-26
+#27 Nico Hülkenberg,no-27
+#33 Max Verstappen,no-33
+#44 Lewis Hamilton,no-44
+#44 Carlos Sainz Jr.,no-55
+#63 George Russel,no-63
+#77 Valtteri Bottas,no-77
+#88 Robert Kubica,no-88
+#99 Antonio Giovinazzi,no-99
 WDCs,label
 Alain Prost,alain-prost
 Alan Jones,alan-jones
@@ -48,6 +66,7 @@ Ayrton Senna,ayrton-senna
 Damon Hill,damon-hill
 Denny Hulme,denny-hulme
 Emerson Fittipaldi,emerson-fittipaldi
+Fernando Alonso,fernando-alonso
 Giuseppe Farina,giuseppe-farina
 Graham Hill,graham-hill
 Jack Brabham,jack-brabham
@@ -71,17 +90,19 @@ Nigel Mansell,nigel-mansell
 Niki Lauda,niki-lauda
 Phil Hill,phil-hill
 WCCs,label
-Alfa Romeo,alfa-romeo
 Benetton,benetton
 Brabham,brabham
 Brawn GP,brawn-gp
 BRM,brm
 Cooper,cooper
 Lotus,lotus
+Maserati,maserati
 Matra,matra
 Tyrrell,tyrrell
 Vanwall,vanwall
 Other drivers,label
+Alonso - Indy500,fernando-alonso-indy500
+Brendon Hartley,brendon-hartley
 Bruce McLaren,bruce-mclaren
 Carmen Jorda,carmen-jorda
 Dan Gurney,dan-gurney
@@ -89,7 +110,6 @@ David Coulthard,david-coulthard
 Desiré Wilson,desire-wilson
 Eddie Irvine,eddie-irvine
 Felipe Massa,felipe-massa
-Fernando Alonso,fernando-alonso-indy500
 Gilles Villeneuve,gilles-villeneuve
 Heikki Kovalainen,heikki-kovalainen
 Jean Alesi,jean-alesi
@@ -100,14 +120,18 @@ Jules Bianchi,jules-bianchi
 Kamui Kobayashi,kamui-kobayashi
 Karun Chandhok,karun-chandhok
 Lella Lombardi,lella-lombardi
+Marcus Ericsson,marcus-ericsson
 Mark Webber,mark-webber
 Martin Brundle,martin-brundle
 Nick Heidfeld,nick-heidfeld
+Pascal Wehrlein,pascal-wehrlein
 Pastor Maldonado,pastor-maldonado
 Roland Ratzenberger,roland-ratzenberger
 Ronnie Peterson,ronnie-peterson
 Rubens Barrichello,rubens-barrichello
+Sergey Sirotkin,sergey-sirotkin
 Stirling Moss,stirling-moss
+Stoffel Vandoorne,stoffel-vandoorne
 Susie Wolff,susie-wolff
 Taki Inoue,taki-inoue
 Tatiana Calderon,tatiana-calderon
@@ -120,6 +144,7 @@ BMW Sauber,bmw-sauber
 Caterham,caterham
 De Tomaso,de-tomaso
 Eurobrun,eurobrun
+Force India,force-india
 Hesketh,hesketh
 Jaguar,jaguar
 Jordan,jordan
@@ -127,23 +152,18 @@ Life,life
 Ligier,ligier
 Manor,manor
 Marussia,marussia
-Maserati,maserati
 Minardi,minardi
+Sauber,sauber
 Spyker,spyker
 Super Aguri,super-aguri
 Toyota,toyota
 Misc.,label
-F1,f1-classic-logo
 F1,f1-logo
-Honda,honda
-Pirelli Hard,pirelli-hard
-Pirelli Hypersoft,pirelli-hypersoft
-Pirelli Intermediate,pirelli-intermediate
-Pirelli Medium,pirelli-medium
+F1,f1-classic-logo
 Pirelli Soft,pirelli-soft
-Pirelli Superhard,pirelli-superhard
-Pirelli Supersoft,pirelli-supersoft
-Pirelli Ultrasoft,pirelli-ultrasoft
+Pirelli Medium,pirelli-medium
+Pirelli Hard,pirelli-hard
+Pirelli Intermediate,pirelli-intermediate
 Pirelli Wet,pirelli-wet
 Charlie Whiting,charlie-whiting
 Sergio Marchionne,sergio-marchionne
