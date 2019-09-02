@@ -1,0 +1,172 @@
+text,class
+2019 Teams,label
+Alfa Romeo,alfa-romeo
+Ferrari,ferrari
+Haas,haas
+McLaren,mclaren
+Mercedes,mercedes
+Racing Point,racing-point
+Red Bull,red-bull
+Renault,renault
+Toro Rosso,toro-rosso
+Williams,williams
+2019 Drivers,label
+Alexander Albon,alexander-albon
+Antonio Giovinazzi,antonio-giovinazzi
+Carlos Sainz Jr.,carlos-sainz-jr
+Charles Leclerc,charles-leclerc
+Daniel Ricciardo,daniel-ricciardo
+Daniil Kvyat,daniil-kvyat
+George Russell,george-russell
+Kevin Magnussen,kevin-magnussen
+Kimi Räikkönen,kimi-raikkonen
+Lance Stroll,lance-stroll
+Lando Norris,lando-norris
+Lewis Hamilton,lewis-hamilton
+Max Verstappen,max-verstappen
+Nico Hülkenberg,nico-hulkenberg
+Pierre Gasly,pierre-gasly
+Robert Kubica,robert-kubica
+Romain Grosjean,romain-grosjean
+Sebastian Vettel,sebastian-vettel
+Sergio Perez,sergio-perez
+Valtteri Bottas,valtteri-bottas
+2019 Reserve Drivers,label
+Esteban Ocon,esteban-ocon
+Jack Aitken,jack-aitken
+Nicholas Latifi,nicholas-latifi
+Oliver Turvey,oliver-turvey
+Sebastien Buemi,sebastien-buemi
+2019 Driver Numbers,label
+#3 Daniel Ricciardo,no-3
+#4 Lando Norris,no-4
+#5 Sebastian Vettel,no-5
+#7 Kimi Räikkönen,no-7
+#8 Romain Grosjean,no-8
+#10 Pierre Gasly,no-10
+#11 Sergio Perez,no-11
+#16 Charles Leclerc,no-16
+#18 Lance Stroll,no-18
+#20 Kevin Magnussen,no-20
+#23 Alexander Albon,no-23
+#26 Daniil Kvyat,no-26
+#27 Nico Hülkenberg,no-27
+#33 Max Verstappen,no-33
+#44 Lewis Hamilton,no-44
+#44 Carlos Sainz Jr.,no-55
+#63 George Russel,no-63
+#77 Valtteri Bottas,no-77
+#88 Robert Kubica,no-88
+#99 Antonio Giovinazzi,no-99
+WDCs,label
+Alain Prost,alain-prost
+Alan Jones,alan-jones
+Alberto Ascari,alberto-ascari
+Ayrton Senna,ayrton-senna
+Damon Hill,damon-hill
+Denny Hulme,denny-hulme
+Emerson Fittipaldi,emerson-fittipaldi
+Fernando Alonso,fernando-alonso
+Giuseppe Farina,giuseppe-farina
+Graham Hill,graham-hill
+Jack Brabham,jack-brabham
+Jackie Stewart,jackie-stewart
+Jacques Villeneuve,jacques-villeneuve
+James Hunt,james-hunt
+Jenson Button,jenson-button
+Jim Clark,jim-clark
+Jochen Rindt,jochen-rindt
+Jody Scheckter,jody-scheckter
+John Surtees,john-surtees
+Juan Manuel Fangio,juan-manuel-fangio
+Keke Rosberg,keke-rosberg
+Mario Andretti,mario-andretti
+Michael Schumacher,michael-schumacher
+Mika Häkkinen,mika-hakkinen
+Mike Hawthorn,mike-hawthorn
+Nelson Piquet,nelson-piquet
+Nico Rosberg,nico-rosberg
+Nigel Mansell,nigel-mansell
+Niki Lauda,niki-lauda
+Phil Hill,phil-hill
+WCCs,label
+Benetton,benetton
+Brabham,brabham
+Brawn GP,brawn-gp
+BRM,brm
+Cooper,cooper
+Lotus,lotus
+Maserati,maserati
+Matra,matra
+Tyrrell,tyrrell
+Vanwall,vanwall
+Other drivers,label
+Alonso - Indy500,fernando-alonso-indy500
+Brendon Hartley,brendon-hartley
+Bruce McLaren,bruce-mclaren
+Carmen Jorda,carmen-jorda
+Dan Gurney,dan-gurney
+David Coulthard,david-coulthard
+Desiré Wilson,desire-wilson
+Eddie Irvine,eddie-irvine
+Felipe Massa,felipe-massa
+Gilles Villeneuve,gilles-villeneuve
+Heikki Kovalainen,heikki-kovalainen
+Jean Alesi,jean-alesi
+Jean-Pierre Jabouille,jean-pierre-jabouille
+Jolyon Palmer,jolyon-palmer
+Juan Pablo Montoya,juan-pablo-montoya
+Jules Bianchi,jules-bianchi
+Kamui Kobayashi,kamui-kobayashi
+Karun Chandhok,karun-chandhok
+Lella Lombardi,lella-lombardi
+Marcus Ericsson,marcus-ericsson
+Mark Webber,mark-webber
+Martin Brundle,martin-brundle
+Nick Heidfeld,nick-heidfeld
+Pascal Wehrlein,pascal-wehrlein
+Pastor Maldonado,pastor-maldonado
+Roland Ratzenberger,roland-ratzenberger
+Ronnie Peterson,ronnie-peterson
+Rubens Barrichello,rubens-barrichello
+Sergey Sirotkin,sergey-sirotkin
+Stirling Moss,stirling-moss
+Stoffel Vandoorne,stoffel-vandoorne
+Susie Wolff,susie-wolff
+Taki Inoue,taki-inoue
+Tatiana Calderon,tatiana-calderon
+Tom Pryce,tom-pryce
+Other teams,label
+Andrea Moda,andrea-moda
+Arrows,arrows
+BAR Honda,bar-honda
+BMW Sauber,bmw-sauber
+Caterham,caterham
+De Tomaso,de-tomaso
+Eurobrun,eurobrun
+Force India,force-india
+Hesketh,hesketh
+Jaguar,jaguar
+Jordan,jordan
+Life,life
+Ligier,ligier
+Manor,manor
+Marussia,marussia
+Minardi,minardi
+Sauber,sauber
+Spyker,spyker
+Super Aguri,super-aguri
+Toyota,toyota
+Misc.,label
+F1,f1-logo
+F1,f1-classic-logo
+Pirelli Soft,pirelli-soft
+Pirelli Medium,pirelli-medium
+Pirelli Hard,pirelli-hard
+Pirelli Intermediate,pirelli-intermediate
+Pirelli Wet,pirelli-wet
+Memorial flairs,label
+Anthoine Hubert,anthoine-hubert
+Charlie Whiting,charlie-whiting
+Niki Lauda,niki-lauda-memorial
+Sergio Marchionne,sergio-marchionne
