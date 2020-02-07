@@ -56,24 +56,9 @@ ul.content span.flair {
   color            : #000;
 }
 
-.linkflair-sub-wec p .linkflairlabel {
-  background-color : #234e70;
-  color            : #96BF0D;
-}
-
 .linkflair-sub-all p .linkflairlabel {
   background-color : #ff4500;
   color            : #fff;
-}
-
-.linkflair-sub-f1feederseries p .linkflairlabel {
-  background-color : #00E1E2;
-  color            : #000;
-}
-
-.linkflair-sub-supergt p .linkflairlabel {
-  background-color : #BA3538;
-  color            : #FFF;
 }
 
 .linkflair-practice p .linkflairlabel,
@@ -88,12 +73,6 @@ ul.content span.flair {
 
 .linkflair-qualifying p .linkflairlabel {
   background : #369;
-}
-
-.linkflair-post-qualifying p .linkflairlabel,
-.linkflair-post-race p .linkflairlabel {
-  background : #6D6D6D;
-  color      : #FFF;
 }
 
 .linkflair-race p .linkflairlabel {
@@ -118,17 +97,11 @@ ul.content span.flair {
   border-left : 5px solid #369;
 }
 
-.thing.linkflair.linkflair-post-qualifying,
-.thing.linkflair.linkflair-post-race {
-  border-left : 5px solid #6D6D6D;
-}
-
 .thing.linkflair.linkflair-practice {
   border-left : 5px solid #d2322d;
 }
 
-.thing.linkflair.linkflair-feature,
-.thing.linkflair.linkflair-meetup {
+.thing.linkflair.linkflair-feature {
   border-left : 5px solid #0D0D0D;
 }
 
