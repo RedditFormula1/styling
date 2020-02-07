@@ -1,3 +1,4 @@
+// Small flags
 a[href="#ae"],
 a[href="/ae"],
 a[href="#ar"],
@@ -239,4 +240,148 @@ a[href="/pl"] {
 a[href="#vn"],
 a[href="/vn"] {
   background-position : -256px -565px;
+}
+
+// Big flags
+.linkflair-feature a.thumbnail[href*=abu_dhabi],
+.linkflair-feature a.thumbnail[href*=albert_park],
+.linkflair-feature a.thumbnail[href*=australian],
+.linkflair-feature a.thumbnail[href*=austrian],
+.linkflair-feature a.thumbnail[href*=azerbaijan],
+.linkflair-feature a.thumbnail[href*=bahrain],
+.linkflair-feature a.thumbnail[href*=belgian],
+.linkflair-feature a.thumbnail[href*=brazilian],
+.linkflair-feature a.thumbnail[href*=british],
+.linkflair-feature a.thumbnail[href*=canada],
+.linkflair-feature a.thumbnail[href*=canadian],
+.linkflair-feature a.thumbnail[href*=chinese],
+.linkflair-feature a.thumbnail[href*=circuit_gilles],
+.linkflair-feature a.thumbnail[href*=german],
+.linkflair-feature a.thumbnail[href*=hungarian],
+.linkflair-feature a.thumbnail[href*=italian],
+.linkflair-feature a.thumbnail[href*=japanese],
+.linkflair-feature a.thumbnail[href*=malaysian],
+.linkflair-feature a.thumbnail[href*=mexican],
+.linkflair-feature a.thumbnail[href*=monaco],
+.linkflair-feature a.thumbnail[href*=montreal_gp],
+.linkflair-feature a.thumbnail[href*=russian],
+.linkflair-feature a.thumbnail[href*=sepang],
+.linkflair-feature a.thumbnail[href*=sepang],
+.linkflair-feature a.thumbnail[href*=malaysia],
+.linkflair-feature a.thumbnail[href*=shanghai],
+.linkflair-feature a.thumbnail[href*=singapore],
+.linkflair-feature a.thumbnail[href*=sochi],
+.linkflair-feature a.thumbnail[href*=spanish],
+.linkflair-feature a.thumbnail[href*=united_states],
+.linkflair-feature a.thumbnail[href*=vietnamese],
+.linkflair-feature a.thumbnail[href*=dutch],
+.linkflair-hub a.thumbnail,
+.linkflair-meetup a.thumbnail,
+.linkflair-post-qualifying a.thumbnail,
+.linkflair-post-race a.thumbnail,
+.linkflair-practice a.thumbnail,
+.linkflair-qualifying a.thumbnail,
+.linkflair-race a.thumbnail {
+  background-image : url(%%flag-med-sprite%%);
+  background-size  : inherit;
+  border-radius    : 2px;
+  height           : 60px;
+  width            : 60px;
+}
+
+.linklisting .linkflair .thumbnail[href*=albert_park],
+.linklisting .linkflair .thumbnail[href*=australian] {
+  background-position : 0 0;
+}
+
+.linklisting .linkflair .thumbnail[href*=malaysia],
+.linklisting .linkflair .thumbnail[href*=sepang] {
+  background-position : -60px 0;
+}
+
+.linklisting .linkflair .thumbnail[href*=bahrain] {
+  background-position : -120px 0;
+}
+
+.linklisting .linkflair .thumbnail[href*=chinese],
+.linklisting .linkflair .thumbnail[href*=shanghai] {
+  background-position : -180px 0;
+}
+
+.linklisting .linkflair .thumbnail[href*=spanish] {
+  background-position : -240px 0;
+}
+
+.linklisting .linkflair .thumbnail[href*=monaco] {
+  background-position : 0 -60px;
+}
+
+.linklisting .linkflair .thumbnail[href*=canada],
+.linklisting .linkflair .thumbnail[href*=canadian] {
+  background-position : -60px -60px;
+}
+
+.linklisting .linkflair .thumbnail[href*=austrian] {
+  background-position : -120px -60px;
+}
+
+.linklisting .linkflair .thumbnail[href*=british] {
+  background-position : -180px -60px;
+}
+
+.linklisting .linkflair .thumbnail[href*=german] {
+  background-position : -240px -60px;
+}
+
+.linklisting .linkflair .thumbnail[href*=hungarian] {
+  background-position : 0 -120px;
+}
+
+.linklisting .linkflair .thumbnail[href*=belgian] {
+  background-position : -60px -120px;
+}
+
+.linklisting .linkflair .thumbnail[href*=italian] {
+  background-position : -120px -120px;
+}
+
+.linklisting .linkflair .thumbnail[href*=singapore] {
+  background-position : -180px -120px;
+}
+
+.linklisting .linkflair .thumbnail[href*=japanese] {
+  background-position : -240px -120px;
+}
+
+.linklisting .linkflair .thumbnail[href*=mexican] {
+  background-position : 0 -240px;
+}
+
+.linklisting .linkflair .thumbnail[href*=russian],
+.linklisting .linkflair .thumbnail[href*=sochi] {
+  background-position : 0 -180px;
+}
+
+.linklisting .linkflair .thumbnail[href*=united_states] {
+  background-position : -60px -180px;
+}
+
+.linklisting .linkflair .thumbnail[href*=brazilian] {
+  background-position : -120px -180px;
+}
+
+.linklisting .linkflair .thumbnail[href*=abu_dhabi] {
+  background-position : -180px -180px;
+}
+
+.linklisting .linkflair .thumbnail[href*=azerbaijan] {
+  background-position : -240px -180px;
+}
+
+.linklisting .linkflair .thumbnail[href*=dutch] {
+  background-position : -60px -240px;
+}
+
+.linklisting .linkflair .thumbnail[href*=vietnamese] {
+  background-position : -120px -240px;
 }
