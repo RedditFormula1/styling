@@ -38,7 +38,7 @@ ul.content span.flair {
 }
 
 .linkflair-video p .linkflairlabel {
-  color : red;
+  color : tomato;
 }
 
 .linkflair-off-topic p .linkflairlabel {
@@ -84,6 +84,26 @@ ul.content span.flair {
   color      : #fff;
 }
 
+.linkflair-discussion p .linkflairlabel {
+  color: lightblue;
+}
+
+.linkflair-art p .linkflairlabel {
+  color: yellow;
+}
+
+.linkflair-editorial p .linkflairlabel {
+  background : darkcyan;
+}
+
+.linkflair-technical p .linkflairlabel {
+  color: springgreen;
+}
+
+.linkflair-throwback p .linkflairlabel {
+  color: pink;
+}
+
 // Posts marked with colored border
 .thing.linkflair.linkflair-hub {
   border-left : 5px solid #3c3c3c;
@@ -107,4 +127,8 @@ ul.content span.flair {
 
 .thing.linkflair-star {
   border-left : 5px solid #ecbe24;
+}
+
+.thing.linkflair-editorial {
+  border-left : 5px solid darkcyan;
 }
