@@ -1,28 +1,64 @@
 import praw
 import csv
-import json
-from os import path
+import time
 
+# Init Reddit instance
 reddit = praw.Reddit('settings')
 
-sub = reddit.subreddit('formula1')
+# Init the sub selection
+#sub = reddit.subreddit('formula1')
+sub = reddit.subreddit('formula1exp')
 
-def templates_from_csv(path):
-  f = csv.reader(file(path))
-  # skip header row
-  f.next()
-  return [(r[0], r[1]) for r in f]
-
-print 'Parsing csv file ...'
-csv_templates = templates_from_csv('flairs.csv')
-
-print 'Clearing flair templates ...'
+# Remove all templates to ensure no conflicts or weird sorting
+print('Clearing flair templates...')
 
 sub.flair.templates.clear()
 
-for text, css_class in csv_templates:
-  print 'Adding flair template: %r, %r' % (text, css_class)
+print('Clearing emojis...')
 
-  sub.flair.templates.add(text, css_class, False)
+for emoji in sub.emoji:
+  print(f'Removing emoji: {emoji}')
 
-print 'Done!'
+  sub.emoji[emoji].delete()
+
+# Read CSV for flairs
+with open('flairs.csv', newline = '') as flairs:
+  reader = csv.DictReader(flairs)
+
+  # Add emojis
+  print('Adding emojis...')
+
+  for row in reader:
+    name = 'aaa-default' if row['class'] == 'label' else row['class']
+    image = f'src/flairs/{name}.png'
+    
+    print(f'####################')
+    print(f'####################   {name}')
+    print(f'####################')
+    
+    print(f'Adding emoji: {name}, {image}, mod only: {row["mod_only"] == "True"}')
+    
+    sub.emoji.add(
+      name,
+      image,
+      row['mod_only'] == 'True',
+      False, # post_flair_allowed,
+      True # user_flair_allowed
+    )
+
+    # Add flair templates
+    text = row["text"] if name == 'aaa-default' else f':{name}: {row["text"]}'
+
+    print(f'Adding flair: {row["text"]}, editable: {row["text_editable"] == "True"}, background: {row["background_color"]}, color: {row["text_color"]}, mod only: {row["mod_only"] == "True"}, allowable content: {row["allowable_content"]}')
+
+    sub.flair.templates.add(
+      text,
+      row['class'],
+      row['text_editable'] == 'True',
+      row['background_color'],
+      row['text_color'],
+      row['mod_only'] == 'True',
+      row['allowable_content']
+    )
+
+print('Done!')

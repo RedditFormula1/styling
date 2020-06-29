@@ -1,184 +1,198 @@
-text,class
-2020 Teams,label
-Alfa Romeo,alfa-romeo
-AlphaTauri,alphatauri
-Ferrari,ferrari
-Haas,haas
-McLaren,mclaren
-Mercedes,mercedes
-Racing Point,racing-point
-Red Bull,red-bull
-Renault,renault
-Williams,williams
-2020 Drivers,label
-Alexander Albon,alexander-albon
-Antonio Giovinazzi,antonio-giovinazzi
-Carlos Sainz Jr.,carlos-sainz-jr
-Charles Leclerc,charles-leclerc
-Daniel Ricciardo,daniel-ricciardo
-Daniil Kvyat,daniil-kvyat
-Esteban Ocon,esteban-ocon
-George Russell,george-russell
-Kevin Magnussen,kevin-magnussen
-Kimi Räikkönen,kimi-raikkonen
-Lance Stroll,lance-stroll
-Lando Norris,lando-norris
-Lewis Hamilton,lewis-hamilton
-Max Verstappen,max-verstappen
-Nicholas Latifi,nicholas-latifi
-Pierre Gasly,pierre-gasly
-Romain Grosjean,romain-grosjean
-Sebastian Vettel,sebastian-vettel
-Sergio Pérez,sergio-perez
-Valtteri Bottas,valtteri-bottas
-2020 Driver Numbers,label
-Daniel Ricciardo,no-3
-Lando Norris,no-4
-Sebastian Vettel,no-5
-Nicholas Latifi,no-6
-Kimi Räikkönen,no-7
-Romain Grosjean,no-8
-Pierre Gasly,no-10
-Sergio Pérez,no-11
-Charles Leclerc,no-16
-Lance Stroll,no-18
-Kevin Magnussen,no-20
-Alexander Albon,no-23
-Daniil Kvyat,no-26
-Esteban Ocon,no-31
-Max Verstappen,no-33
-Lewis Hamilton,no-44
-Carlos Sainz Jr.,no-55
-George Russell,no-63
-Valtteri Bottas,no-77
-Antonio Giovinazzi,no-99
-2020 Test / Junior Drivers,label
-Brendon Hartley,brendon-hartley
-Jack Aitken,jack-aitken
-Pascal Wehrlein,pascal-wehrlein
-Robert Kubica,robert-kubica
-Sébastien Buemi,sebastien-buemi
-Stoffel Vandoorne,stoffel-vandoorne
-2020 Team Principals,label
-Andreas Seidl,andreas-seidl
-Christian Horner,christian-horner
-Claire Williams,claire-williams
-Cyril Abiteboul,cyril-abiteboul
-Frank Williams,frank-williams
-Franz Tost,franz-tost
-Frédéric Vasseur,frederic-vasseur
-Guenther Steiner,guenther-steiner
-Mattia Binotto,mattia-binotto
-Otmar Szafnauer,otmar-szafnauer
-Toto Wolff,toto-wolff
-WDCs,label
-Alain Prost,alain-prost
-Alan Jones,alan-jones
-Alberto Ascari,alberto-ascari
-Ayrton Senna,ayrton-senna
-Damon Hill,damon-hill
-Denny Hulme,denny-hulme
-Emerson Fittipaldi,emerson-fittipaldi
-Fernando Alonso,fernando-alonso
-Giuseppe Farina,giuseppe-farina
-Graham Hill,graham-hill
-Jack Brabham,jack-brabham
-Jackie Stewart,jackie-stewart
-Jacques Villeneuve,jacques-villeneuve
-James Hunt,james-hunt
-Jenson Button,jenson-button
-Jim Clark,jim-clark
-Jochen Rindt,jochen-rindt
-Jody Scheckter,jody-scheckter
-John Surtees,john-surtees
-Juan Manuel Fangio,juan-manuel-fangio
-Keke Rosberg,keke-rosberg
-Mario Andretti,mario-andretti
-Michael Schumacher,mario-andretti
-Mika Häkkinen,mika-hakkinen
-Mike Hawthorn,mike-hawthorn
-Nelson Piquet,nelson-piquet
-Nico Rosberg,nico-rosberg
-Nigel Mansell,nigel-mansell
-Niki Lauda,niki-lauda
-Phil Hill,phil-hill
-WCCs,label
-Benetton,benetton
-Brabham,brabham
-Brawn GP,brawn-gp
-BRM,brm
-Cooper,cooper
-Lotus,lotus
-Maserati,maserati
-Matra,matra
-Tyrrell,tyrrell
-Vanwall,vanwall
-Other Drivers,label
-Bruce McLaren,bruce-mclaren
-Dan Gurney,dan-gurney
-David Coulthard,david-coulthard
-Desiré Wilson,desire-wilson
-Eddie Irvine,eddie-irvine
-Felipe Massa,felipe-massa
-Gilles Villeneuve,gilles-villeneuve
-Heikki Kovalainen,heikki-kovalainen
-Jean Alesi,jean-alesi
-Jean-Pierre Jabouille,jean-pierre-jabouille
-Jolyon Palmer,jolyon-palmer
-Juan Pablo Montoya,juan-pablo-montoya
-Kamui Kobayashi,kamui-kobayashi
-Karun Chandhok,karun-chandhok
-Lella Lombardi,lella-lombardi
-Marcus Ericsson,marcus-ericsson
-Mark Webber,mark-webber
-Martin Brundle,martin-brundle
-Nick Heidfeld,nick-heidfeld
-Nico Hülkenberg,nico-hulkenberg
-Pastor Maldonado,pastor-maldonado
-Roland Ratzenberger,roland-ratzenberger
-Ronnie Peterson,ronnie-peterson
-Rubens Barrichello,rubens-barrichello
-Sergey Sirotkin,sergey-sirotkin
-Stirling Moss,stirling-moss
-Taki Inoue,taki-inoue
-Tom Pryce,tom-pryce
-Other Teams,label
-Andrea Moda,andrea-moda
-Arrows,arrows
-BAR Honda,bar-honda
-BMW Sauber,bmw-sauber
-Caterham,caterham
-De Tomaso,de-tomaso
-Eurobrun,eurobrun
-Force India,force-india
-Hesketh,hesketh
-Jaguar,jaguar
-Jordan,jordan
-Life,life
-Ligier,ligier
-Manor,manor
-Marussia,marussia
-Minardi,minardi
-Sauber,sauber
-Spyker,spyker
-Super Aguri,super-aguri
-Toro Rosso,toro-rosso
-Toyota,toyota
-Misc.,label
-Formula 1,f1-logo
-Formula 1,f1-classic-logo
-Bernd Mayländer,bernd-maylander
-Honda,honda
-Toyoharu Tanabe,toyoharu-tanabe
-Pirelli Soft,pirelli-soft
-Pirelli Medium,pirelli-medium
-Pirelli Hard,pirelli-hard
-Pirelli Intermediate,pirelli-intermediate
-Pirelli Wet,pirelli-wet
-Drive To Survive,drive-to-survive
-Memorial Flairs,label
-Anthoine Hubert,anthoine-hubert
-Charlie Whiting,charlie-whiting
-Jules Bianchi,jules-bianchi
-Niki Lauda,niki-lauda-memorial
-Sergio Marchionne,sergio-marchionne
+text,class,text_editable,background_color,text_color,mod_only,allowable_content
+2020 Teams,label,False,,,False,all
+Alfa Romeo,alfa-romeo,False,#960000,light,False,all
+AlphaTauri,alphatauri,False,#ffffff,dark,False,all
+Ferrari,ferrari,False,#dc0000,light,False,all
+Haas,haas,False,#787878,light,False,all
+McLaren,mclaren,False,#ff8700,dark,False,all
+Mercedes,mercedes,False,#00d2be,dark,False,all
+Racing Point,racing-point,False,#f596c8,dark,False,all
+Red Bull,red-bull,False,#0600ef,light,False,all
+Renault,renault,False,#fff500,dark,False,all
+Williams,williams,False,#0082fa,light,False,all
+2020 Drivers,label,False,,,False,all
+Alexander Albon,alexander-albon,False,#0600ef,light,False,all
+Antonio Giovinazzi,antonio-giovinazzi,False,#960000,light,False,all
+Carlos Sainz Jr.,carlos-sainz-jr,False,#ff8700,dark,False,all
+Charles Leclerc,charles-leclerc,False,#dc0000,light,False,all
+Daniel Ricciardo,daniel-ricciardo,False,#fff500,dark,False,all
+Daniil Kvyat,daniil-kvyat,False,#ffffff,dark,False,all
+Esteban Ocon,esteban-ocon,False,#fff500,dark,False,all
+George Russell,george-russell,False,#0082fa,light,False,all
+Kevin Magnussen,kevin-magnussen,False,#787878,light,False,all
+Kimi Räikkönen,kimi-raikkonen,False,#960000,light,False,all
+Lance Stroll,lance-stroll,False,#f596c8,dark,False,all
+Lando Norris,lando-norris,False,#ff8700,dark,False,all
+Lewis Hamilton,lewis-hamilton,False,#00d2be,dark,False,all
+Max Verstappen,max-verstappen,False,#0600ef,light,False,all
+Nicholas Latifi,nicholas-latifi,False,#0082fa,light,False,all
+Pierre Gasly,pierre-gasly,False,#ffffff,dark,False,all
+Romain Grosjean,romain-grosjean,False,#787878,light,False,all
+Sebastian Vettel,sebastian-vettel,False,#dc0000,light,False,all
+Sergio Pérez,sergio-perez,False,#f596c8,dark,False,all
+Valtteri Bottas,valtteri-bottas,False,#00d2be,dark,False,all
+2020 Driver Numbers,label,False,,,False,all
+Daniel Ricciardo,no-3,False,#fff500,dark,False,all
+Lando Norris,no-4,False,#ff8700,dark,False,all
+Sebastian Vettel,no-5,False,#dc0000,light,False,all
+Nicholas Latifi,no-6,False,#0082fa,light,False,all
+Kimi Räikkönen,no-7,False,#960000,light,False,all
+Romain Grosjean,no-8,False,#787878,light,False,all
+Pierre Gasly,no-10,False,#ffffff,dark,False,all
+Sergio Pérez,no-11,False,#f596c8,dark,False,all
+Charles Leclerc,no-16,False,#dc0000,light,False,all
+Lance Stroll,no-18,False,#f596c8,dark,False,all
+Kevin Magnussen,no-20,False,#787878,light,False,all
+Alexander Albon,no-23,False,#0600ef,light,False,all
+Daniil Kvyat,no-26,False,#ffffff,dark,False,all
+Esteban Ocon,no-31,False,#fff500,dark,False,all
+Max Verstappen,no-33,False,#0600ef,light,False,all
+Lewis Hamilton,no-44,False,#00d2be,dark,False,all
+Carlos Sainz Jr.,no-55,False,#ff8700,dark,False,all
+George Russell,no-63,False,#0082fa,light,False,all
+Valtteri Bottas,no-77,False,#00d2be,dark,False,all
+Antonio Giovinazzi,no-99,False,#960000,light,False,all
+2020 Test / Junior Drivers,label,False,,,False,all
+Brendon Hartley,brendon-hartley,False,#dc0000,light,False,all
+Jack Aitken,jack-aitken,False,#0082fa,light,False,all
+Pascal Wehrlein,pascal-wehrlein,False,#dc0000,light,False,all
+Robert Kubica,robert-kubica,False,#960000,light,False,all
+Sébastien Buemi,sebastien-buemi,False,#0600ef,light,False,all
+Stoffel Vandoorne,stoffel-vandoorne,False,#00d2be,dark,False,all
+2020 Team Principals,label,False,,,False,all
+Andreas Seidl,andreas-seidl,False,#ff8700,dark,False,all
+Christian Horner,christian-horner,False,#0600ef,light,False,all
+Claire Williams,claire-williams,False,#0082fa,light,False,all
+Cyril Abiteboul,cyril-abiteboul,False,#fff500,dark,False,all
+Frank Williams,frank-williams,False,#0082fa,light,False,all
+Franz Tost,franz-tost,False,#ffffff,dark,False,all
+Frédéric Vasseur,frederic-vasseur,False,#960000,light,False,all
+Guenther Steiner,guenther-steiner,False,#787878,light,False,all
+Mattia Binotto,mattia-binotto,False,#dc0000,light,False,all
+Otmar Szafnauer,otmar-szafnauer,False,#f596c8,dark,False,all
+Toto Wolff,toto-wolff,False,#00d2be,dark,False,all
+WDCs,label,False,,,False,all
+Alain Prost,alain-prost,False,,,False,all
+Alan Jones,alan-jones,False,,,False,all
+Alberto Ascari,alberto-ascari,False,,,False,all
+Ayrton Senna,ayrton-senna,False,,,False,all
+Damon Hill,damon-hill,False,,,False,all
+Denny Hulme,denny-hulme,False,,,False,all
+Emerson Fittipaldi,emerson-fittipaldi,False,,,False,all
+Fernando Alonso,fernando-alonso,False,,,False,all
+Giuseppe Farina,giuseppe-farina,False,,,False,all
+Graham Hill,graham-hill,False,,,False,all
+Jack Brabham,jack-brabham,False,,,False,all
+Jackie Stewart,jackie-stewart,False,,,False,all
+Jacques Villeneuve,jacques-villeneuve,False,,,False,all
+James Hunt,james-hunt,False,,,False,all
+Jenson Button,jenson-button,False,,,False,all
+Jim Clark,jim-clark,False,,,False,all
+Jochen Rindt,jochen-rindt,False,,,False,all
+Jody Scheckter,jody-scheckter,False,,,False,all
+John Surtees,john-surtees,False,,,False,all
+Juan Manuel Fangio,juan-manuel-fangio,False,,,False,all
+Keke Rosberg,keke-rosberg,False,,,False,all
+Mario Andretti,mario-andretti,False,,,False,all
+Michael Schumacher,michael-schumacher,False,,,False,all
+Mika Häkkinen,mika-hakkinen,False,,,False,all
+Mike Hawthorn,mike-hawthorn,False,,,False,all
+Nelson Piquet,nelson-piquet,False,,,False,all
+Nico Rosberg,nico-rosberg,False,,,False,all
+Nigel Mansell,nigel-mansell,False,,,False,all
+Niki Lauda,niki-lauda,False,,,False,all
+Phil Hill,phil-hill,False,,,False,all
+WCCs,label,False,,,False,all
+Benetton,benetton,False,,,False,all
+Brabham,brabham,False,,,False,all
+Brawn GP,brawn-gp,False,,,False,all
+BRM,brm,False,,,False,all
+Cooper,cooper,False,,,False,all
+Lotus,lotus,False,,,False,all
+Maserati,maserati,False,,,False,all
+Matra,matra,False,,,False,all
+Tyrrell,tyrrell,False,,,False,all
+Vanwall,vanwall,False,,,False,all
+Other Drivers,label,False,,,False,all
+Bruce McLaren,bruce-mclaren,False,,,False,all
+Dan Gurney,dan-gurney,False,,,False,all
+David Coulthard,david-coulthard,False,,,False,all
+Desiré Wilson,desire-wilson,False,,,False,all
+Eddie Irvine,eddie-irvine,False,,,False,all
+Felipe Massa,felipe-massa,False,,,False,all
+Gilles Villeneuve,gilles-villeneuve,False,,,False,all
+Heikki Kovalainen,heikki-kovalainen,False,,,False,all
+Jean Alesi,jean-alesi,False,,,False,all
+Jean-Pierre Jabouille,jean-pierre-jabouille,False,,,False,all
+Jolyon Palmer,jolyon-palmer,False,,,False,all
+Juan Pablo Montoya,juan-pablo-montoya,False,,,False,all
+Kamui Kobayashi,kamui-kobayashi,False,,,False,all
+Karun Chandhok,karun-chandhok,False,,,False,all
+Lella Lombardi,lella-lombardi,False,,,False,all
+Marcus Ericsson,marcus-ericsson,False,,,False,all
+Mark Webber,mark-webber,False,,,False,all
+Martin Brundle,martin-brundle,False,,,False,all
+Nick Heidfeld,nick-heidfeld,False,,,False,all
+Nico Hülkenberg,nico-hulkenberg,False,,,False,all
+Pastor Maldonado,pastor-maldonado,False,,,False,all
+Roland Ratzenberger,roland-ratzenberger,False,,,False,all
+Ronnie Peterson,ronnie-peterson,False,,,False,all
+Rubens Barrichello,rubens-barrichello,False,,,False,all
+Sergey Sirotkin,sergey-sirotkin,False,,,False,all
+Stirling Moss,stirling-moss,False,,,False,all
+Taki Inoue,taki-inoue,False,,,False,all
+Tom Pryce,tom-pryce,False,,,False,all
+Other Teams,label,False,,,False,all
+Andrea Moda,andrea-moda,False,,,False,all
+Arrows,arrows,False,,,False,all
+BAR Honda,bar-honda,False,,,False,all
+BMW Sauber,bmw-sauber,False,,,False,all
+Caterham,caterham,False,,,False,all
+De Tomaso,de-tomaso,False,,,False,all
+Eurobrun,eurobrun,False,,,False,all
+Force India,force-india,False,,,False,all
+Hesketh,hesketh,False,,,False,all
+Jaguar,jaguar,False,,,False,all
+Jordan,jordan,False,,,False,all
+Life,life,False,,,False,all
+Ligier,ligier,False,,,False,all
+Manor,manor,False,,,False,all
+Marussia,marussia,False,,,False,all
+Minardi,minardi,False,,,False,all
+Sauber,sauber,False,,,False,all
+Spyker,spyker,False,,,False,all
+Super Aguri,super-aguri,False,,,False,all
+Toro Rosso,toro-rosso,False,,,False,all
+Toyota,toyota,False,,,False,all
+Misc.,label,False,,,False,all
+Formula 1,f1-logo,False,,,False,all
+Formula 1,f1-classic-logo,False,,,False,all
+Bernd Mayländer,bernd-maylander,False,,,False,all
+Honda,honda,False,,,False,all
+Toyoharu Tanabe,toyoharu-tanabe,False,,,False,all
+Pirelli Soft,pirelli-soft,False,,,False,all
+Pirelli Medium,pirelli-medium,False,,,False,all
+Pirelli Hard,pirelli-hard,False,,,False,all
+Pirelli Intermediate,pirelli-intermediate,False,,,False,all
+Pirelli Wet,pirelli-wet,False,,,False,all
+Drive To Survive,drive-to-survive,False,,,False,all
+Memorial Flairs,label,False,,,False,all
+Anthoine Hubert,anthoine-hubert,False,,,False,all
+Charlie Whiting,charlie-whiting,False,,,False,all
+Jules Bianchi,jules-bianchi,False,,,False,all
+Niki Lauda,niki-lauda-memorial,False,,,False,all
+Sergio Marchionne,sergio-marchionne,False,#dc0000,light,False,all
+Mod only,label,False,,,True,all
+Bernie Ecclestone,bernie-ecclestone,False,,,True,all
+Chase Carey,chase-carey,False,,,True,all
+FIA,fia,False,,,True,all
+Flair Team,flair-team,False,,,True,all
+Hall of Fame,hall-of-fame,False,,,True,all
+History Project,history-project,False,,,True,all
+Jean Todt,jean-todt,False,,,True,all
+Michael Masi,michael-masi,False,,,True,all
+New user,noob,False,,,True,all
+Paddock Club,paddock-club,False,,,True,all
+Ross Brawn,ross-brawn,False,,,True,all
+Safety Car,safety-car,False,,,True,all
+Will Buxton,will-buxton,False,,,True,all
