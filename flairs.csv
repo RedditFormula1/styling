@@ -165,6 +165,7 @@ Super Aguri,super-aguri,False,,,False,all
 Toro Rosso,toro-rosso,False,,,False,all
 Toyota,toyota,False,,,False,all
 Misc.,label,False,,,False,all
+#WeRaceAsOne,race-as-one,False,#ffffff,dark,False,all
 Formula 1,f1-logo,False,,,False,all
 Formula 1,f1-classic-logo,False,,,False,all
 Bernd Mayländer,bernd-maylander,False,,,False,all
@@ -183,7 +184,6 @@ Jules Bianchi,jules-bianchi,False,,,False,all
 Niki Lauda,niki-lauda-memorial,False,,,False,all
 Sergio Marchionne,sergio-marchionne,False,#dc0000,light,False,all
 Mod only,label,False,,,True,all
-Bernie Ecclestone,bernie-ecclestone,False,,,True,all
 Chase Carey,chase-carey,False,,,True,all
 FIA,fia,False,,,True,all
 Flair Team,flair-team,False,,,True,all
