@@ -1,4 +1,26 @@
 // Tags baby!
+.linkflair-twitter-reputable {
+  .thumbnail {
+    overflow: visible;
+
+    &:after {
+      content: '';
+      background: #fff url(%%green-check%%) center no-repeat;
+      background-size: 60%;
+      width: 20px;
+      height: 20px;
+      border-radius: 100%;
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      display: block;
+      transform: translate(15%, 15%);
+      border: 1px solid green;
+      box-sizing: border-box;
+    }
+  }
+}
+
 .linkflair-rating-1,
 .linkflair-rating-2,
 .linkflair-rating-3 {

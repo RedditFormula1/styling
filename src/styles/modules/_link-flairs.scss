@@ -5,6 +5,10 @@ p.title > .linkflairlabel {
   padding       : 1px 4px;
 }
 
+p.title > .linkflairlabel[title=""] {
+  display: none;
+}
+
 // Golden star
 .linkflair-star p.title:before {
   @extend %display-inline-block;
