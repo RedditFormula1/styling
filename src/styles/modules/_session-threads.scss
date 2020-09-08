@@ -79,14 +79,13 @@
 
 .linkflair .md a[href="#rt_merc"],
 .linkflair .md a[href="#rt_mcl"],
-.linkflair .md a[href="#rt_man"],
 .linkflair .md a[href="#rt_ren"],
-.linkflair .md a[href="#rt_tor"],
+.linkflair .md a[href="#rt_at"],
 .linkflair .md a[href="#rt_rb"],
 .linkflair .md a[href="#rt_haas"],
-.linkflair .md a[href="#rt_sau"],
+.linkflair .md a[href="#rt_alf"],
 .linkflair .md a[href="#rt_fer"],
-.linkflair .md a[href="#rt_fi"],
+.linkflair .md a[href="#rt_rp"],
 .linkflair .md a[href="#rt_wil"] {
   background-image : url(%%flag-med-sprite%%);
   content          : "";
@@ -102,25 +101,23 @@
 
 .linkflair.linkflair-post-qualifying .md a[href="#rt_merc"],
 .linkflair.linkflair-post-qualifying .md a[href="#rt_mcl"],
-.linkflair.linkflair-post-qualifying .md a[href="#rt_man"],
 .linkflair.linkflair-post-qualifying .md a[href="#rt_ren"],
-.linkflair.linkflair-post-qualifying .md a[href="#rt_tor"],
+.linkflair.linkflair-post-qualifying .md a[href="#rt_at"],
 .linkflair.linkflair-post-qualifying .md a[href="#rt_rb"],
 .linkflair.linkflair-post-qualifying .md a[href="#rt_haas"],
-.linkflair.linkflair-post-qualifying .md a[href="#rt_sau"],
+.linkflair.linkflair-post-qualifying .md a[href="#rt_alf"],
 .linkflair.linkflair-post-qualifying .md a[href="#rt_fer"],
-.linkflair.linkflair-post-qualifying .md a[href="#rt_fi"],
+.linkflair.linkflair-post-qualifying .md a[href="#rt_rp"],
 .linkflair.linkflair-post-qualifying .md a[href="#rt_wil"],
 .linkflair.linkflair-post-race .md a[href="#rt_merc"],
 .linkflair.linkflair-post-race .md a[href="#rt_mcl"],
-.linkflair.linkflair-post-race .md a[href="#rt_man"],
 .linkflair.linkflair-post-race .md a[href="#rt_ren"],
-.linkflair.linkflair-post-race .md a[href="#rt_tor"],
+.linkflair.linkflair-post-race .md a[href="#rt_at"],
 .linkflair.linkflair-post-race .md a[href="#rt_rb"],
 .linkflair.linkflair-post-race .md a[href="#rt_haas"],
-.linkflair.linkflair-post-race .md a[href="#rt_sau"],
+.linkflair.linkflair-post-race .md a[href="#rt_alf"],
 .linkflair.linkflair-post-race .md a[href="#rt_fer"],
-.linkflair.linkflair-post-race .md a[href="#rt_fi"],
+.linkflair.linkflair-post-race .md a[href="#rt_rp"],
 .linkflair.linkflair-post-race .md a[href="#rt_wil"] {
   background-size : 200px;
   height          : 26px;
@@ -132,18 +129,14 @@
 }
 
 .linkflair .md a[href="#rt_mcl"] {
-  background-position : -201px -310px;
-}
-
-.linkflair .md a[href="#rt_man"] {
-  background-position : -150px -310px;
+  background-position : -200px -310px;
 }
 
 .linkflair .md a[href="#rt_ren"] {
   background-position : -50px -349px;
 }
 
-.linkflair .md a[href="#rt_tor"] {
+.linkflair .md a[href="#rt_at"] {
   background-position : -150px -349px;
 }
 
@@ -155,7 +148,7 @@
   background-position : -100px -310px;
 }
 
-.linkflair .md a[href="#rt_sau"] {
+.linkflair .md a[href="#rt_alf"] {
   background-position : -100px -349px;
 }
 
@@ -163,7 +156,7 @@
   background-position : 0 -310px;
 }
 
-.linkflair .md a[href="#rt_fi"] {
+.linkflair .md a[href="#rt_rp"] {
   background-position : -50px -310px;
 }
 
@@ -173,14 +166,13 @@
 
 .linkflair .md a[href="#rt_merc"]:after,
 .linkflair .md a[href="#rt_mcl"]:after,
-.linkflair .md a[href="#rt_man"]:after,
 .linkflair .md a[href="#rt_ren"]:after,
-.linkflair .md a[href="#rt_tor"]:after,
+.linkflair .md a[href="#rt_at"]:after,
 .linkflair .md a[href="#rt_rb"]:after,
 .linkflair .md a[href="#rt_haas"]:after,
-.linkflair .md a[href="#rt_sau"]:after,
+.linkflair .md a[href="#rt_alf"]:after,
 .linkflair .md a[href="#rt_fer"]:after,
-.linkflair .md a[href="#rt_fi"]:after,
+.linkflair .md a[href="#rt_rp"]:after,
 .linkflair .md a[href="#rt_wil"]:after {
   background-image : url(%%flags%%);
   bottom           : 0;
@@ -196,17 +188,13 @@
   background-position : -284px -117px;
 }
 
-.linkflair .md a[href="#rt_fi"]:after {
-  background-position : -32px -257px;
-}
-
 .linkflair .md a[href="#rt_mcl"]:after,
-.linkflair .md a[href="#rt_man"]:after,
+.linkflair .md a[href="#rt_rp"]:after,
 .linkflair .md a[href="#rt_wil"]:after {
   background-position : -284px -173px;
 }
 
-.linkflair .md a[href="#rt_tor"]:after,
+.linkflair .md a[href="#rt_at"]:after,
 .linkflair .md a[href="#rt_fer"]:after {
   background-position : -172px -257px;
 }
@@ -219,7 +207,7 @@
   background-position : -4px -565px;
 }
 
-.linkflair .md a[href="#rt_sau"]:after {
+.linkflair .md a[href="#rt_alf"]:after {
   background-position : -198px -89px;
   margin-left         : -2px;
 }
@@ -298,22 +286,17 @@
   background-position : -402px -490px;
 }
 
-.linkflair.linkflair-post-qualifying .md a[href="#rt_tor"],
-.linkflair.linkflair-post-race .md a[href="#rt_tor"] {
+.linkflair.linkflair-post-qualifying .md a[href="#rt_at"],
+.linkflair.linkflair-post-race .md a[href="#rt_at"] {
   background-position : -102px -490px;
 }
 
-.linkflair.linkflair-post-qualifying .md a[href="#rt_sau"],
-.linkflair.linkflair-post-race .md a[href="#rt_sau"] {
+.linkflair.linkflair-post-qualifying .md a[href="#rt_alf"],
+.linkflair.linkflair-post-race .md a[href="#rt_alf"] {
   background-position : -68px -490px;
 }
 
-.linkflair.linkflair-post-qualifying .md a[href="#rt_man"],
-.linkflair.linkflair-post-race .md a[href="#rt_man"] {
-  background-position : -302px -464px;
-}
-
-.linkflair.linkflair-post-qualifying .md a[href="#rt_fi"],
-.linkflair.linkflair-post-race .md a[href="#rt_fi"] {
+.linkflair.linkflair-post-qualifying .md a[href="#rt_rp"],
+.linkflair.linkflair-post-race .md a[href="#rt_rp"] {
   background-position : -236px -464px;
 }
