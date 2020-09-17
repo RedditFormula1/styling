@@ -65,14 +65,13 @@ Tatiana Calderón,tatiana-calderon,False,#960000,light,False,all
 2020 Team Principals,label,False,,,False,all
 Andreas Seidl,andreas-seidl,False,#ff8700,dark,False,all
 Christian Horner,christian-horner,False,#0600ef,light,False,all
-Claire Williams,claire-williams,False,#0082fa,light,False,all
 Cyril Abiteboul,cyril-abiteboul,False,#fff500,dark,False,all
-Frank Williams,frank-williams,False,#0082fa,light,False,all
 Franz Tost,franz-tost,False,#ffffff,dark,False,all
 Frédéric Vasseur,frederic-vasseur,False,#960000,light,False,all
 Guenther Steiner,guenther-steiner,False,#787878,light,False,all
 Mattia Binotto,mattia-binotto,False,#dc0000,light,False,all
 Otmar Szafnauer,otmar-szafnauer,False,#f596c8,dark,False,all
+Simon Roberts,simon-roberts,False,#0082fa,light,False,all
 Toto Wolff,toto-wolff,False,#00d2be,dark,False,all
 WDCs,label,False,,,False,all
 Alain Prost,alain-prost,False,,,False,all
@@ -146,8 +145,10 @@ Stirling Moss,stirling-moss,False,,,False,all
 Taki Inoue,taki-inoue,False,,,False,all
 Tom Pryce,tom-pryce,False,,,False,all
 Other Teams,label,False,,,False,all
+Alpine,alpine,False,,,False,all
 Andrea Moda,andrea-moda,False,,,False,all
 Arrows,arrows,False,,,False,all
+Aston Martin,aston-martin,False,,,False,all
 BAR Honda,bar-honda,False,,,False,all
 BMW Sauber,bmw-sauber,False,,,False,all
 Caterham,caterham,False,,,False,all
@@ -167,6 +168,9 @@ Spyker,spyker,False,,,False,all
 Super Aguri,super-aguri,False,,,False,all
 Toro Rosso,toro-rosso,False,,,False,all
 Toyota,toyota,False,,,False,all
+Other Team Principals,label,False,,,False,all
+Claire Williams,claire-williams,False,#0082fa,light,False,all
+Frank Williams,frank-williams,False,#0082fa,light,False,all
 Misc.,label,False,,,False,all
 #WeRaceAsOne,race-as-one,False,#ffffff,dark,False,all
 Formula 1,f1-logo,False,,,False,all
