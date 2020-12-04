@@ -62,6 +62,7 @@ Robert Kubica,robert-kubica,False,#960000,light,False,all
 Sébastien Buemi,sebastien-buemi,False,#0600ef,light,False,all
 Stoffel Vandoorne,stoffel-vandoorne,False,#00d2be,dark,False,all
 Tatiana Calderón,tatiana-calderon,False,#960000,light,False,all
+Pietro Fittipaldi,pietro-fittipaldi,False,#787878,light,False,all
 2020 Team Principals,label,False,,,False,all
 Andreas Seidl,andreas-seidl,False,#ff8700,dark,False,all
 Christian Horner,christian-horner,False,#0600ef,light,False,all
@@ -175,7 +176,11 @@ Misc.,label,False,,,False,all
 #WeRaceAsOne,race-as-one,False,#ffffff,dark,False,all
 Formula 1,f1-logo,False,,,False,all
 Formula 1,f1-classic-logo,False,,,False,all
+Medical Car,medical-car,False,,,False,all
+Safety Car,safety-car,False,,,False,all
+Alan van der Merwe,alan-van-der-merwe,False,,,False,all
 Bernd Mayländer,bernd-maylander,False,,,False,all
+Dr. Ian Roberts,dr-ian-roberts,False,,,False,all
 Honda,honda,False,,,False,all
 Toyoharu Tanabe,toyoharu-tanabe,False,,,False,all
 Pirelli Soft,pirelli-soft,False,,,False,all
@@ -201,5 +206,4 @@ Michael Masi,michael-masi,False,,,True,all
 New user,noob,False,,,True,all
 Paddock Club,paddock-club,False,,,True,all
 Ross Brawn,ross-brawn,False,,,True,all
-Safety Car,safety-car,False,,,True,all
 Will Buxton,will-buxton,False,,,True,all
