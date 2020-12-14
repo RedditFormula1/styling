@@ -1,0 +1,8 @@
+// Videos and images contained to frontpage width
+.res-expando-box {
+  position: relative;
+
+  .res-media-zoomable {
+    max-width: 100% !important;
+  }
+}
