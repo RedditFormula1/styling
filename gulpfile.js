@@ -22,9 +22,6 @@ gulp.task('styles', function() {
     .pipe(sass({
       outputStyle: 'compressed'
     }))
-    .pipe(autoprefixer({
-      browsers: ['last 2 versions']
-    }))
     .pipe(gulp.dest(project.dist))
 })
 
