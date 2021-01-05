@@ -2,20 +2,26 @@ a[href="#merc"] {
   background : #00D2BE;
 }
 
-a[href="#fer"] {
-  background : #DC0000;
-}
-
 a[href="#rbr"] {
   background : #0600ef;
 }
 
-a[href="#rpt"] {
-  background : #F596C8;
+a[href="#mcl"] {
+  background : #FF8700;
 }
 
-a[href="#wil"] {
-  background : #0082fa;
+a[href="#rpt"],
+a[href="#ast"] {
+  background : #0b5a4f;
+}
+
+a[href="#ren"],
+a[href="#apn"] {
+  background : #005bbb;
+}
+
+a[href="#fer"] {
+  background : #DC0000;
 }
 
 a[href="#str"],
@@ -23,18 +29,14 @@ a[href="#alp"] {
   background : #ffffff;
 }
 
-a[href="#ren"] {
-  background : #FFF500;
-}
-
 a[href="#has"] {
   background : #787878;
 }
 
-a[href="#mcl"] {
-  background : #FF8700;
-}
-
 a[href="#alf"] {
   background : #960000;
+}
+
+a[href="#wil"] {
+  background : #0082fa;
 }
