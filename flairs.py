@@ -7,8 +7,8 @@ reddit = praw.Reddit('settings')
 
 # Init the sub selection
 #sub = reddit.subreddit('formula1')
-#sub = reddit.subreddit('formula1exp')
-sub = reddit.subreddit('formula1flairs')
+sub = reddit.subreddit('formula1exp')
+#sub = reddit.subreddit('formula1flairs')
 
 # Remove all templates to ensure no conflicts or weird sorting
 print('Clearing flair templates...')

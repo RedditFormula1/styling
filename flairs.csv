@@ -5,17 +5,94 @@ Kimi Räikkönen,kimi-raikkonen,False,#960000,light,False,all,False,False,True
 2021 Driver Numbers,label,False,,,False,all,False,False,True
 2021 Test / Junior Drivers,label,False,,,False,all,False,False,True
 2021 Team Principals,label,False,,,False,all,False,False,True
+Andreas Seidl,andreas-seidl,False,#FF8700,dark,False,all,False,False,True
+Christian Horner,christian-horner,False,#0600ef,light,False,all,False,False,True
+Franz Tost,franz-tost,False,#FFFFFF,dark,False,all,False,False,True
+Frédéric Vasseur,frederic-vasseur,False,#960000,light,False,all,False,False,True
+Guenther Steiner,guenther-steiner,False,#787878,light,False,all,False,False,True
+Mattia Binotto,mattia-binotto,False,#DC0000,dark,False,all,False,False,True
+Otmar Szafnauer,otmar-szafnauer,False,#0b5a4f,light,False,all,False,False,True
+Simon Roberts,simon-roberts,False,#0082fa,light,False,all,False,False,True
+Toto Wolff,toto-wolff,False,#00D2BE,light,False,all,False,False,True
 WDCs,label,False,,,False,all,False,False,True
+Alain Prost,alain-prost,False,,,False,all,False,False,True
+Alan Jones,alan-jones,False,,,False,all,False,False,True
+Alberto Ascari,alberto-ascari,False,,,False,all,False,False,True
 Ayrton Senna,ayrton-senna,False,,,False,all,False,False,True
+Damon Hill,damon-hill,False,,,False,all,False,False,True
+Denny Hulme,denny-hulme,False,,,False,all,False,False,True
+Emerson Fittipaldi,emerson-fittipaldi,False,,,False,all,False,False,True
+Giuseppe Farina,giuseppe-farina,False,,,False,all,False,False,True
+Graham Hill,graham-hill,False,,,False,all,False,False,True
+Jack Brabham,jack-brabham,False,,,False,all,False,False,True
+Jackie Stewart,jackie-stewart,False,,,False,all,False,False,True
+Jacques Villeneuve,jacques-villeneuve,False,,,False,all,False,False,True
+James Hunt,james-hunt,False,,,False,all,False,False,True
+Jenson Button,jenson-button,False,,,False,all,False,False,True
+Jim Clark,jim-clark,False,,,False,all,False,False,True
 Jochen Rindt,jochen-rindt,False,,,False,all,False,False,True
+Jody Scheckter,jody-scheckter,False,,,False,all,False,False,True
+John Surtees,john-surtees,False,,,False,all,False,False,True
+Juan Manuel Fangio,juan-manuel-fangio,False,,,False,all,False,False,True
+Keke Rosberg,keke-rosberg,False,,,False,all,False,False,True
+Mario Andretti,mario-andretti,False,,,False,all,False,False,True
+Michael Schumacher,michael-schumacher,False,,,False,all,False,False,True
+Mika Häkkinen,mika-hakkinen,False,,,False,all,False,False,True
+Mike Hawthorn,mike-hawthorn,False,,,False,all,False,False,True
+Nelson Piquet,nelson-piquet,False,,,False,all,False,False,True
+Nico Rosberg,nico-rosberg,False,,,False,all,False,False,True
+Nigel Mansell,nigel-mansell,False,,,False,all,False,False,True
+Niki Lauda,niki-lauda,False,,,False,all,False,False,True
+Phil Hill,phil-hill,False,,,False,all,False,False,True
 WCCs,label,False,,,False,all,False,False,True
 Other Drivers,label,False,,,False,all,False,False,True
+Alex Zanardi,alex-zanardi,False,,,False,all,False,False,True
 Bruce McLaren,bruce-mclaren,False,,,False,all,False,False,True
+Dan Gurney,dan-gurney,False,,,False,all,False,False,True
+Daniil Kvyat,daniil-kvyat,False,,,False,all,False,False,True
+David Coulthard,david-coulthard,False,,,False,all,False,False,True
+Desiré Wilson,desire-wilson,False,,,False,all,False,False,True
+Eddie Irvine,eddie-irvine,False,,,False,all,False,False,True
+Felipe Massa,felipe-massa,False,,,False,all,False,False,True
+Gilles Villeneuve,gilles-villeneuve,False,,,False,all,False,False,True
+Heikki Kovaleinen,heikki-kovaleinen,False,,,False,all,False,False,True
+Jean Alesi,jean-alesi,False,,,False,all,False,False,True
+Jean-Pierre Jabouille,jean-pierre-jabouille,False,,,False,all,False,False,True
+Jolyon Palmer,jolyon-palmer,False,,,False,all,False,False,True
+Juan Pablo Montoya,juan-pablo-montoya,False,,,False,all,False,False,True
+Kamui Kobayashi,kamui-kobayashi,False,,,False,all,False,False,True
+Karun Chandhok,karun-chandhok,False,,,False,all,False,False,True
+Kevin Magnussen,kevin-magnussen,False,,,False,all,False,False,True
+Lella Lombardi,lella-lombardi,False,,,False,all,False,False,True
+Marcus Ericsson,marcus-ericsson,False,,,False,all,False,False,True
+Mark Webber,mark-webber,False,,,False,all,False,False,True
+Martin Brundle,martin-brundle,False,,,False,all,False,False,True
+Nick Heidfeld,nick-heidfeld,False,,,False,all,False,False,True
+Nico Hülkenberg,nico-hulkenberg,False,,,False,all,False,False,True
+Pastor Maldonado,pastor-maldonado,False,,,False,all,False,False,True
+Roland Ratzenberger,roland-ratzenberger,False,,,False,all,False,False,True
+Romain Grosjean,romain-grosjean,False,,,False,all,False,False,True
+Ronnie Peterson,ronnie-peterson,False,,,False,all,False,False,True
+Rubens Barrichello,rubens-barrichello,False,,,False,all,False,False,True
+Sergey Sirotkin,sergey-sirotkin,False,,,False,all,False,False,True
+Stirling Moss,stirling-moss,False,,,False,all,False,False,True
+Taki Inoue,taki-inoue,False,,,False,all,False,False,True
+Tom Pryce,tom-pryce,False,,,False,all,False,False,True
 Other Teams,label,False,,,False,all,False,False,True
 Other Team Principals,label,False,,,False,all,False,False,True
 Misc.,label,False,,,False,all,False,False,True
+Alan van der Merwe,alan-van-der-merwe,False,,,False,all,False,False,True
+Bernd Mayländer,bernd-maylander,False,,,False,all,False,False,True
 Memorial Flairs,label,False,,,False,all,False,False,True
+Anthoine Hubert,anthoine-hubert,False,,,False,all,False,False,True
+Jules Bianchi,jules-bianchi,False,,,False,all,False,False,True
 Mod only,label,False,,,True,all,False,False,True
+Bernie Ecclestone,bernie-ecclestone,False,,,True,all,False,False,True
+Chase Carey,chase-carey,False,,,True,all,False,False,True
+Jean Todt,jean-todt,False,,,True,all,False,False,True
+Michael Masi,michael-masi,False,,,True,all,False,False,True
+Ross Brawn,ross-brawn,False,,,True,all,False,False,True
+Stefano Domenicali,stefano-domenicali,False,,,True,all,False,False,True
 green-check,green-check,False,,,True,all,True,True,False
 rating-1,rating-1,False,,,True,all,True,True,False
 rating-2,rating-2,False,,,True,all,True,True,False
