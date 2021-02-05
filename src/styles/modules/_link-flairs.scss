@@ -1,10 +1,4 @@
 // Default label styles
-p.title > .linkflairlabel {
-  background    : #323232;
-  color         : #fff;
-  padding       : 1px 4px;
-}
-
 p.title > .linkflairlabel[title=""] {
   display: none;
 }
@@ -31,81 +25,102 @@ ul.content span.flair {
   border      : 0;
   color       : #000;
   line-height : 1.5em;
+  background  : #323232;
+  color       : #fff;
+  padding     : 1px 4px;
 }
 
-.linkflair-paywall p .linkflairlabel {
-  color : #73e673;
-}
-
-.linkflair-rumour p .linkflairlabel {
+// Mod only flairs
+.linkflair-rumour .linkflairlabel {
   color : orange;
 }
 
-.linkflair-video p .linkflairlabel {
-  color : tomato;
-}
-
-.linkflair-off-topic p .linkflairlabel {
-  color : #1be3f1;
-}
-
-.linkflair-highlight p .linkflairlabel,
-.linkflair-mod-comment p .linkflairlabel {
+.linkflair-mod-comment .linkflairlabel {
   background-color : #ccc;
   color            : #222;
 }
 
-.linkflair-mod-removal p .linkflairlabel {
+.linkflair-highlight .linkflairlabel {
+  color : tomato;
+}
+
+.linkflair-mod-removal .linkflairlabel {
   background-color : #FF7878;
   color            : #000;
 }
 
-.linkflair-sub-all p .linkflairlabel {
-  background-color : #ff4500;
-  color            : #fff;
-}
-
-.linkflair-practice p .linkflairlabel,
-.linkflair-qualifying p .linkflairlabel,
-.linkflair-race p .linkflairlabel {
-  color : #fff;
-}
-
-.linkflair-practice p .linkflairlabel {
-  background : #d2322d;
-}
-
-.linkflair-qualifying p .linkflairlabel {
-  background : #369;
-}
-
-.linkflair-race p .linkflairlabel {
-  background : #6db81c;
-}
-
-.linkflair-feature p .linkflairlabel {
+.linkflair-feature .linkflairlabel {
   background : #000;
   color      : #fff;
 }
 
-.linkflair-discussion p .linkflairlabel {
-  color: lightblue;
-}
-
-.linkflair-art p .linkflairlabel {
-  color: yellow;
-}
-
-.linkflair-editorial p .linkflairlabel {
+.linkflair-editorial .linkflairlabel {
   background : darkcyan;
 }
 
-.linkflair-technical p .linkflairlabel {
+// Automatic flairs
+.linkflair-paywall .linkflairlabel {
+  color : #ccc;
+}
+
+.linkflair-sub-all .linkflairlabel {
+  background-color : #ff4500;
+  color            : #fff;
+}
+
+.linkflair-practice .linkflairlabel,
+.linkflair-qualifying .linkflairlabel,
+.linkflair-race .linkflairlabel {
+  color : #fff;
+}
+
+.linkflair-practice .linkflairlabel {
+  background : #d2322d;
+}
+
+.linkflair-qualifying .linkflairlabel {
+  background : #369;
+}
+
+.linkflair-race .linkflairlabel {
+  background : #6db81c;
+}
+
+// User flairs
+.linkflair-discussion .linkflairlabel,
+.linkflair-analysis .linkflairlabel,
+.linkflair-serious .linkflairlabel,
+.linkflair-technical .linkflairlabel,
+.linkflair-question .linkflairlabel {
+  color : #00d6d6;
+}
+
+.linkflair-video .linkflairlabel {
+  color : tomato;
+}
+
+.linkflair-memorabilia .linkflairlabel,
+.linkflair-photo .linkflairlabel,
+.linkflair-art .linkflairlabel {
+  color: yellow;
+}
+
+.linkflair-technical .linkflairlabel {
   color: springgreen;
 }
 
-.linkflair-throwback p .linkflairlabel {
+.linkflair-throwback .linkflairlabel,
+.linkflair-social-media .linkflairlabel {
   color: pink;
+}
+
+.linkflair-news .linkflairlabel,
+.linkflair-off-topic .linkflairlabel {
+  color: white;
+}
+
+.linkflair-statistics .linkflairlabel {
+  color: #73e673;
 }
 
 // Posts marked with colored border
